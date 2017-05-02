@@ -1,0 +1,2503 @@
+﻿RATIONALE        6
+Introduction        6
+Audience        6
+Overall Goals        7
+Critical Analysis of Technology        7
+Production of Technology        8
+CORE BELIEFS        8
+Teachers as Students and Students as Teachers        8
+All Learners as Creators        9
+Open-source content        9
+Making knowledge out in the world        9
+ORGANIZATION        10
+CONTENT OVERVIEW        11
+ASSESSMENT        12
+Unit Plans        14
+Unit 1: Identity        14
+Unit Goal        14
+Essential Questions        14
+Key Understandings        14
+Assessments & Tasks        14
+Learning Plan        15
+Hooks        15
+Best Practices        16
+Accommodations        16
+Resources        16
+Unit 2: Design        17
+Goal        17
+Essential Questions:        17
+Key Understandings        17
+Assessments & Tasks        17
+Learning Plan        18
+Hooks        18
+Best Practices        18
+Accommodations        18
+Field Notes Suggested Prompts:        18
+Glossary        18
+Resources        19
+Unit 3: Data        20
+Goal        20
+Essential Questions        20
+Key Understandings        20
+Assessments & Tasks        20
+Learning Plan        20
+Hooks        20
+Best Practices        21
+Accommodations        21
+Glossary        21
+Resources        21
+Unit 4: Privacy        22
+Goal        22
+Essential Questions        22
+Key Understandings        22
+Assessments & Tasks        22
+Learning Plan        23
+Hooks        23
+Best Practices        24
+Resources        24
+Unit 5: Sustainability        25
+Unit Goal        25
+Essential Questions        25
+Key Understandings        25
+Assessments & Tasks        25
+Learning Plan        26
+Hooks        26
+Best Practices        26
+Accommodations        26
+Resources        26
+LEARNING EXPERIENCES BANK        27
+Field Notes        27
+Computing concept        27
+Real-world context        27
+Implementing the task        27
+Extensions/modifications        28
+Task        28
+Data points and identity        30
+Computing concept        30
+Real-world context        30
+Implementing the task        30
+Extensions/modifications        30
+Task        30
+Critical Analysis of Technology        32
+Computing concept        32
+Real-world context        32
+Implementing the task        32
+Extensions/modifications        32
+Task        32
+Weapons of Math Destruction        34
+Computing concept        34
+Real-world context        34
+Implementing the task        34
+Extensions/modifications        34
+Task        35
+Vocabulary        35
+Resources        35
+Problems with placematch.com        36
+Computing concept        36
+Real-world context        36
+Implementing the task        36
+Extensions/modifications        36
+Task        36
+Vocabulary        37
+Resources        37
+Critical analysis of Digital Witness        38
+Computing concept        38
+Real-world context        38
+Implementing the task        38
+Extensions/modifications        38
+Task        38
+Resources        39
+Design Thinking Challenge        40
+Computing concept        40
+Real-world context        40
+Implementing the task        40
+Extensions/modifications        40
+Task        40
+Peanut Butter and Jelly Sandwich        42
+Computing concept        42
+Real-world context        42
+Implementing the task        42
+Extensions/modifications        42
+Task        42
+Data story        45
+Computing concept        45
+Real-world context        45
+Implementing the task        45
+Extensions/modifications        45
+Task        45
+Resources        46
+AI logic        46
+Computing concept        47
+Real-world context        47
+Implementing the task        47
+Extensions/modifications        47
+Task        47
+Resources        48
+Google Autocomplete        49
+Computing concept        49
+Real-world context        49
+Implementing the task        49
+Extensions/modifications        49
+Task        49
+Resources        49
+Draw a Computer Scientist        50
+Computing concept        51
+Real-world context        51
+Implementing the task        51
+Extensions/modifications        51
+Task        51
+Resources        51
+Privacy Policy Review        53
+Computing concept        53
+Real-world context        53
+Implementing the task        53
+Extensions/modifications        53
+Task        53
+Resources        54
+Choose-Your-Own Path-Games        55
+Computing concept        55
+Real-world context        55
+Implementing the task        55
+Extensions/modifications        55
+Task        55
+Resources        56
+Safe Surfing        56
+Computing concept        57
+Real-world context        57
+Implementing the task        57
+Extensions/modifications        57
+Task        57
+Resources        57
+Position Paper        58
+Computing concept        59
+Real-world context        59
+Implementing the task        59
+Extensions/modifications        59
+Task        59
+Flashlight Repair        59
+Computing concept        59
+Real-world context        60
+Implementing the task        60
+Extensions/modifications        60
+Task        60
+Resources        60
+iFixit Guides        60
+Computing concept        62
+Real-world context        62
+Implementing the task        62
+Extensions/modifications        62
+Task        62
+Resources        62
+ANNOTATED LIST OF RESOURCES        63
+Twitter        63
+Media        64
+Books        65
+Outside lessons        66
+Content Standards        66
+APPENDIX        67
+Glossary        67
+Data Points and Identity terms        69
+Google Autocomplete term ideas        70
+Sample Data Sets        72
+REFERENCES        72
+
+
+________________
+RATIONALE
+Introduction
+"We are changing the world with technology” - Bill Gates
+
+
+Technology presents students with the opportunity to be creative, solve real world problems, and participate as global citizens. Technologies are often presented as neutral, logical strings of ones and zeros; however, biases can be found within apps, algorithms, and software. For learners to begin solving problems with technology, they must first understand technology as a reflection of human bias and thus work to change the systems of technologies and the cultures surrounding them. Despite increasing awareness of the need for education systems to respond to changes brought about by technological developments, the role and importance of computer science and technology education is often misunderstood. Webb et al. (2016) propose three rationales as arguments for inclusion of computer science in curriculum:
+1. The economic rationale cites the need to sustain a competitive edge in a technology-driven world as well as the need to have computer science-educated individuals in all industries.
+2. The social rationale alludes to the idea of having multiple and diverse producers, rather than just consumers, of technology in society.
+3. The cultural rationale is grounded on the idea of using technology as a driver for cultural change, rather than “having change imposed by technological developments” (Webb et al., 2016, p. 446).
+While the first point is of substantial value, Open CS will focus primarily on the second and third arguments. They will inform the twofold goals of the curriculum: for learners in grades K-12 to be able to critique technology, and for them to produce technology.
+
+
+Audience
+Technology is pervasive in all stages of our lives nowadays, making the big ideas that Open CS seeks to uncover and the essential questions that it explores valuable at any age. Open CS was built with future global citizens in mind, and the curriculum is intentionally flexible so that it can be implemented with learners of any age within the K-12 school system.
+Overall Goals
+1. Critical Analysis of Technology
+
+
+To attain a level of critical understanding, Open CS will engage learners in the analysis of technology that is both emerging and pervasive. While “questioning texts is the core of media literacy” (Semali, 2005, p. 37), the curriculum will extend these texts to include technological tools such as applications (apps), websites, and algorithms used in the designs of technology as well as data. Just as Semali describes preferred meanings found in texts, preferred uses are found in technology such as in the case of facial recognition software not being able to recognize individuals of certain races (Garvie & Frankle, 2016). Technology, as an inherent aspect of everyday life, affects people whether or not they are explicitly aware of its impact. To create a more inclusive world, free of hidden bias within hardware and software, we first need to critically understand technology. 
+
+
+Open CS is informed by Buckingham’s (2007) framework for media literacy and aims to extend it to include technology tools. The framework includes four essential components: representation, language, production, and audience. Described below are the ways that these components can incorporate computing.
+* Representation: Like all human-made products, hardware and software technologies represent the world and “offer particular interpretations and selections of reality which inevitably embody implicit values and ideologies” (Buckingham, 2007, p. 155). Technology, therefore, is not neutral. Technology developers weave their beliefs, values, and perspectives into the tools they make; these creators play a central role in deciding what is included—and not included—in the hardware and software that impact our daily lives. Literacy in technology therefore requires understanding who it represents, essentially by questioning who creates it and what are its (often hidden) values and intentions.
+* Language: To be literate in digital technologies, students must understand the logic of computer languages and the cultural assumptions that surround it. This includes knowledge of computer science, such as understanding how data is stored and interpreted, as well as how humans communicate through computers with programming. Familiarity with this language will facilitate the understanding and critical analysis of digital technology.
+* Production: An understanding of the production process of both hardware and software contributes to a general technological literacy. Moreover, understanding the open source movement is an important element in creating an inclusive and equitable world of technology.
+* Audience: The last component asks the learner to develop “an awareness of one’s own position as an audience” (Buckingham, 2007, p. 156), and thus to self-reflect as a user of technology. It also asks students to take a critical stance in understanding for who technology is created, and how these groups are targeted and influenced by developers.
+These four components will guide the critical analysis portion of the Open CS curriculum.
+
+
+To engage students as critical users of technology they need to develop a critical eye toward technologies that are often presented as neutral tools.
+The usefulness of critical pedagogy as a media literacy strategy lies in its ability to 
+generate skepticism and analytical frameworks for unpacking assumptions through inquiry methods. Once we are skeptical, we can investigate bias from facts, truths from half-truths, stereotypes from distortions, and the senseless generalizations and manipulations of media spectacles (Semali, 2005, p. 42).
+Rather than merely being an extension of technology skills classes, students’ experiences of computing should foster critical thinking about technology as it pertains to the world around them. This approach goes beyond understanding lines of code on a screen.
+
+
+1. Production of Technology
+
+
+It is important for students to understand how they can have an impact in producing technology. Importantly, students will create technology through computer programming. By engaging in first-hand programming experiences, learners will be able to deepen their understanding of the decisions made during software development and how these decisions impact products that connect people all over the world.
+
+
+CORE BELIEFS
+1. Teachers as Students and Students as Teachers
+Open CS envisions both students and teachers as co-learners. Importantly, students also fill teaching roles within the Open CS curriculum. As this curriculum is fundamentally about problems, every member of the learning community should be welcome to bring problems to light, to explore together.
+1. All Learners as Creators
+Learners will construct knowledge through shared contributions to collaborative group and individual projects that address issues they view as affecting them and their communities. Informed by critical pedagogy, Open CS will take up the challenge to “affirm and critically enrich the meaning, language, and knowledge that students actually use to negotiate and inform their lives” (Giroux, 1994, p. 45).  To accomplish this we encourage educators using this curriculum to allow students to share their interests in the classroom. Educators using Open CS should consider allowing space within the classroom to address the effects of emerging technologies on students’ lives. 
+
+
+Open CS recognizes the ability of young people to create technology and address big problems they recognize in their lives. While an important component of Open CS is critically analyzing technology, an equally important aim is for young people to feel empowered to use technology in ways that create innovative and meaningful artifacts.
+
+
+1. Open-source content
+
+
+As part of a mission to share ideas with educators and researchers interested in computer science education and professional development, the curriculum unit will be submitted to an Open Source outlet, under the Creative Commons license. This widely-accessible avenue will increase the ability to reach educators interested in learning to implement computer science curriculum in their schools. Additionally, others are welcome and encouraged to make changes or additions to the design in efforts to tailor it to the specific needs of others and/or to improve its effectiveness.
+
+
+Open Source materials “allow free, unfettered access and perpetual, irrevocable ‘5R’ permissions, that is, permission from the creator to retain, reuse, revise, remix, and redistribute” (#GoOpen district launch packet, 2016, p. 3) and are offered free of charge.  The benefits of using Open Source resources include the ability for districts to reallocate funding typically used for textbooks and curricular materials, adaptability to rapidly changing educational initiatives and mandates, and the ability for access to resources from reputable institutions around the world. 
+
+
+1. Making knowledge out in the world
+
+
+The Open CS Curriculum is based on constructivist theories of learning, which suggest that knowledge is actively constructed by the student, rather than passively absorbed from texts or the teacher (Ben-Ari, 2001). This may take the form of a physical artifact, written code, or even an abstract concept, as long as it is created by students themselves, rather than gleaned from an external source. The curriculum  will incorporate students’ prior knowledge to be built upon. This will be achieved by beginning with a focus on the student as both a technology user and a technology creator in order to determine previous understandings, and leverage them for further learning.
+
+
+Additionally, Open CS Curriculum will provide experiences that are constructionist in nature, which can be understood as a design approach to constructivism. By designing and creating, students will have the opportunity to build knowledge of abstract concepts through learner-centered experiences. A constructionist approach to classroom activities allows students have increased agency over their learning (Scardamalia & Bereiter, 1991).
+
+
+The constructivist and constructionist theories of learning support the practice of making; they posit that in order to learn, students cannot simply receive, they must create the knowledge themselves. Moreover, the social constructivist theory shifts learning from an individual and cognitive perspective to viewing knowledge as socially created (Hemetsberger & Reinhardt, 2006). Since knowledge is “dynamic, relational, and based on human action” (Hemetsberger & Reinhardt, 2006, p. 189), it is important for individuals to create knowledge in social contexts. In technology, these collaborative practices are exemplified through the open-source movement, and support the practice of producing and sharing knowledge in the world.
+ 
+ORGANIZATION
+
+
+The 5 units in Open CS curriculum are designed to be implemented in the presented order so that each subsequent unit will include and build on the understandings gained from previous activities. Though the sequence of units is prescribed, educators have flexibility within each unit. Each unit includes a range of activities so that teachers may implement as few or as many as they choose, according to their particular circumstances (i.e. time constraints, student interest, comfort level with content, resource availability).  The units have a list of essential questions, key understandings, an activity bank, key terms as well and journal prompts (for formative assessment).
+
+
+The suggested time frame for each unit is approximately two months, allowing the curriculum to span an entire school year (September to June).  Additionally, the range of grade levels that Open CS spans, affords the implementation of the curriculum again in later grades, with the use of alternative activities. Moreover, the content covered, as well as most of the activities included, are adaptable for the age range of K-12.  
+
+
+
+
+CONTENT OVERVIEW[a][b][c][d][e][f]
+
+
+* Identity
+   * Online & offline identities.
+   * How people and their needs are reflected in technology.
+
+
+* Design[g] - whose views are represented in design of technology?
+   * Who designs things matters
+   * We are designers! Design for OURSELVES
+   * Learn about self as a technology creator
+
+
+* Data[h]
+   * Data can be used for or against people’s freedoms. 
+   * Data is analyzed and interpreted. 
+
+
+* Privacy [i]→ who are you on the Internet? Who has access to that?
+   * Online presence/participation
+   * Online audiences 
+      * intended and unintended audiences.
+
+
+* Sustainability (technological waste, who made the device under what labor conditions, where do the material come from?)  → the “outer circle”, impact on the world
+   * Technology’s impact on the environment
+   * Reuse v. recycle 
+      * Right to repair [j] 
+
+
+
+
+ASSESSMENT[k]
+
+
+Recognizing that our curriculum is intended to be used flexibly across different grade levels, we have created authentic assessments that can—and moreover, should—be customized to a given classroom context. The suggested assessments for each unit are intended to demonstrate understanding of the key concepts of the unit.  
+
+
+Criteria for guiding assessment
+Unit plans outline what evidence can be used for pre-assessment, formative assessment, and summative assessment. All activities that can be used as a demonstration of understanding can be found in the Learning Experiences Bank. The activity outlines provide a description of how the task connects to a real-world context. However, ultimately communities of learners should create things they are interested in and are relevant to their lives. Ideas for modifications are described in each task to express the flexibility of each learning experience. 
+
+
+Six facets of understanding
+The unit plans indicate connections to “facets of understanding”, a term coined by Wiggins and McTighe (2005):
+* Explanation - Justify or describe concepts using evidence. 
+* Interpretation - Drawing inferences based on prior or new knowledge. 
+* Application - Using knowledge in a new context. 
+* Perspective - Analyzing differing points of view. 
+* Empathy - Taking on the point of view of another. Understanding an experience outside your own. 
+* Self-knowledge - Reflecting on your own thinking, learning, and behavior. 
+
+
+Field Notes - Ongoing Assessment
+Reflection is an important part of learning, since it allows us to construct meaning from experiences and make important connections between different concepts or events. Field Notes are a multimodal form for learners to document their reflections throughout the five units, as well as to evaluate their own learning. In each unit, they will be presented with prompts they can use to log their reflections with text, images, video, and audio, choosing modalities as they see fit. They can also go back to old entries at different points in time and reflect on their past notes. Some tools that may be used to create the Field Notes include Google Docs and Penzu.
+
+
+Field Notes Portfolio and Showcase 
+Learners will have documented their evolving understandings through field notes. These will be used to synthesize their work across the units and serve as a portfolio, which can be exhibited in a showcase. Prior to presenting their portfolios, learners will complete the Portfolio Prep activity from the Learning Experience Bank. 
+________________
+Unit Plans
+Unit 1: Identity
+Unit Goal
+Learners will define identity together and post their definition somewhere visible so that as the unit progresses they can reflect back on this definition and change it as need be.  The activity of collaboratively forming a definition may also operate as a pre-assessment to determine what learners know about identity and what sorts of questions come up for them as this theme is discussed.
+Essential Questions                                                       
+·       What impact does technology have in my life?
+·       What is the impact of using a given device/service on me?
+
+
+Key Understandings
+* Learners can be a part of fostering an inclusive computing culture.
+* Critical reflection on the impact various technologies have on our lives.
+
+
+Assessments & Tasks 
+
+
+FACETS OF UNDERSTANDING
+	 
+	Interpretation
+	·    PERFORMANCE TASK(S): 
+      Summative Assessment - Critical analysis of a technology (app, website, or platform)
+Guiding questions:
+* How do I use this piece of technology? 
+* How does it affect or shape my everyday life?
+* How might others use this technology in a similar way? (in this classroom, at home, or in a different country)
+* How might others use this technology in different ways? 
+* What might that say about how I use this technology?
+	Self-knowledge, empathy, perspective
+	OTHER EVIDENCE:                                                                                                                                                                               
+·     Formative Assessment  -  Students will begin creating their field notes by answering the prompt questions found within the Learning Experiences Bank - Field Notes or below. 
+ 
+	
+
+Learning Plan
+Hooks
+1. Run a fake Shark Tank competition where students need to present app ideas for an app that helps a person with a disability. Follow-up Question: How did they think about technology differently when it wasn’t for an able-bodied user?
+2. Use the activity from the resources section giraffe and platypus.
+3. Watch the Gender AI.
+
+
+Best Practices
+* Keep the essential questions visible (posted in learning space) and continue to refer to them in discussions, and refining their class-wide definition of ‘identity’.
+* Have learners work with critical friends who can provide feedback on each other’s app evaluations prior to submission.
+Accommodations
+* Print out scripts or enable captions for any videos shown so that students can follow along to visual content. 
+* More physically active classes may want to begin with a hook activity involving physical movement.
+        
+        Field Notes Suggested Prompts:
+* For me, identity means/includes…
+* Some ways that technology impacts my everyday life include…
+* Technology has an impact on the world because...
+ 
+Resources[l][m]
+http://cok-5code.weebly.com/uploads/5/7/1/9/57197685/equity_session_resources-_giraffeandplatypus.pdf
+https://vialogues.com/vialogues/play/35611/
+ 
+
+
+Unit 2: Design
+Goal
+Although we all use technology in some way everyday, we rarely think about its design. The goal of this unit is to engage learners in thinking about the design process of technology, as well as in designing technologies themselves.
+
+
+Special note about this unit:
+Open CS can be used a launch into coding activities. We encourage educators to select one of the resources below to use with your class as you are engaging with programming. As there are so many resources available, we have selected some we believe are the best-structured for learning to code. As you are working through any one of these, remember to regularly go back to the essential questions of the unit, thus keeping the bigger picture in mind.
+Essential Questions:
+* Who designs technology and why does that matter?
+* Who is represented in a device, program, or team?
+Key Understandings
+* The design of technology is not neutral: Values, beliefs, and biases are embedded in the design process
+* Technology design is about the user and their needs, not about the technology itself
+* Programming is a way to create useful tools for ourselves and for others
+
+
+Assessments & Tasks 
+
+
+Application, Empathy
+	PERFORMANCE TASK:
+
+
+Summative Assessment - Technology Redesign: Learners will redesign the application or website that they evaluated in Unit 1
+Guiding Questions:
+* Who is this technology for? Who does it represent?
+* Who designed it? How does that affect who it is for?
+* Who is missing from it?
+* How can we redesign it to make it more inclusive?
+	Self-knowledge, Empathy, Perspective
+	OTHER EVIDENCE:
+
+
+Formative Assessment  - Students will keep updating their field notes by answering the prompt questions found within the Learning Experiences Bank - Field Notes or below.
+
+
+
+
+	
+
+
+
+Learning Plan
+Hooks
+1. Joy Buolamwini: How I'm fighting bias in algorithms
+        https://www.ted.com/talks/joy_buolamwini_how_i_m_fighting_bias_in_algorithms#t-503
+Ethical Design Manifesto
+https://ind.ie/ethical-design/
+Discussion on how technology can be biased towards certain groups of people, and how diversifying the designer population can help include a wider range of needs and views
+Best Practices
+* Plan for ongoing discussions in small and large groups to support students
+* Have students mentor each other or pair-program 
+* Allow peer and small-group work so that learners have the opportunity to evaluate each other’s designs, as well as each other’s critical evaluations of their chosen technologies.
+Accommodations
+Different programming languages are available for different ages and needs. Scratch is a great introductory interface, and Codecademy supports many levels of programming expertise. Physical computing is a viable option for classes that prefer more active physical engagement. Scripts or captions should be provided for all videos.
+
+
+Field Notes Suggested Prompts:
+* Who designs technology is important because…
+* Something/someone that is missing from this technology is…
+* It is important to recognize diverse creators because...
+Glossary
+Algorithm: a set of instructions to complete a task
+Block-based programming language: programming languages that let users create programs by manipulating blocks or other graphical elements, rather than writing code with text. Examples include Scratch and Blockly (see Resources)
+Code: a command designed to be carried out by a computer
+Debugging: finding and fixing problems or errors in programs
+Pair-programming: one programmer, the driver, writes code, while the other, the navigator, reviews it line by line, and the roles are switched regularly
+Program: an algorithm that has been coded into something than can be run by a computer or other machine
+Pseudocode: a way of explaining code in steps that are understandable to humans. Pseudocode won’t actually work on a computer but it can help learners better understand the way computers think, which is in ordered steps. 
+
+
+Resources
+Design Thinking - Virtual Crash Course
+Scratch - Imagine, Program, Share - Beginner’s programming interface
+Codecademy: Learn to code - Free guided programming courses
+Introduction to design-thinking
+Blockly - BrainPOP Programming Game & Lesson Plan
+
+
+https://dschool.stanford.edu/resources/virtual-crash-course-video
+https://scratch.mit.edu/
+https://www.codecademy.com/
+http://www.ideou.com/pages/design-thinking
+https://educators.brainpop.com/lesson-plan/computer-coding-lesson-plan-blockly-maze-game/
+
+
+________________
+
+
+Unit 3: Data
+Goal
+The data that is captured impacts how technologies work with, for, and against users. Learners will explore how data can be analyzed and interpreted. Learners will begin to question how pieces of information on the Internet are integrated into far-reaching software and how these algorithms have real, consequential impacts. 
+Essential Questions
+* What is the impact of data that is captured? 
+* How is data interpreted, and by whom?
+
+
+Key Understandings
+* Learners will come to understand that the information that is captured about people matters.
+Assessments & Tasks  
+
+
+Apply, interpret, explanation
+	PERFORMANCE TASK(S):                                                                                                                                                                 
+·     Summative Assessment - Create a story using data from a publicly available dataset. This could be in the form of a infographic, Google charts, or other chart. Students will present their findings to the class. See Appendix for sample data sets. 
+ 
+	Interpret, apply, perspective
+	OTHER EVIDENCE:                                                                                                                                                                       
+·     Formative Assessment - Complete the AI Logic from the Learning Experiences Bank. 
+	
+
+Learning Plan
+Hooks
+1. Run the data points and identity activity from the Learning Resources bank
+2. Open with a bold claim from the two-sides to every story activity from the Learning Resources Bank 
+3. Present students with a ‘fake’ digital profile or completed online form and have them puzzle out what information they know about a person from what they post online. Follow-up Question:  What might be missing from this picture?
+4. Watch this clip from Moneyball
+5. Watch the video Can Police Data Predict Crimes?  
+Best Practices
+* Select sample data sets that reflect learners identities and experiences. 
+* Provide opportunities for learners to model data in whatever way appeals best to them. 
+Accommodations
+* For classrooms without technology many of the activities unit can be run offline. 
+* Prints-outs of video scripts should be provided or captions turned on for any video content so that learners can listen and/or read. 
+
+
+Field Notes Suggested Prompts: 
+* The type of information captured by a piece of technology is important because…
+* Considering how mathematical models are written and used is important because…
+* How I feel about privacy online is...        
+Glossary
+Data - Data is the quantities, characters, or symbols, on which operations (+, -. =, >, <) are performed by a computer 
+Cloud - This term is frequently used but not often clearly defined. The term ‘the cloud’ refers to the network of computers that provide shared computer processing on demand
+Computer processing - Computer processing is the action of processing data, images, etc. by a computer 
+
+
+Resources[n][o]
+https://vialogues.com/vialogues/play/35611/
+https://www.facebook.com/TheMarshallProject.org/videos/1730856490463105/
+https://www.youtube.com/watch?v=3KcZLaNxHnk
+
+
+________________
+
+
+Unit 4: Privacy
+“When teens engage with networked media, they’re trying to take control of their lives and their relationship to society.  In doing so, they begin to understand how people relate to one another and how information flows between people” (boyd, 2014, p. 93).
+Goal
+As learners enter the realm of digital spaces, it is crucial that they understand the consequences that come with participation in online contexts.  The unit begins by revisiting the concept of identity, with the topic of “online personas.” Learners will then contribute their existing understandings and attitudes on the topic of online privacy and the concept of having intended and unintended audiences, (boyd, 2014) especially with the use of social media, but also including web browsing. Both positive and negative consequences of broadcasting personal information will be explored. Additionally, the types of information shared will be evaluated and learners will consider how their identities influence their attitudes on privacy.
+Essential Questions                                                       
+* What is privacy? 
+* Why does privacy matter? 
+* Is privacy a right or privilege? 
+* Does your identity impact your view of privacy?
+
+
+Key[p] Understandings
+* Participation in online spaces requires personal data collection.
+* Our online behaviors are viewed by intended and unintended audiences.
+
+
+
+
+Assessments & Tasks 
+
+
+FACETS OF UNDERSTANDING
+	 
+	Interpretation
+	·     PERFORMANCE TASK(S): 
+     
+      Pre-assessment - Word cloud[q] generated by learners’ initial definition of privacy.
+
+
+Summative Assessment - Case study 
+Learners will choose a case study to analyze.  Learners will apply privacy understandings to diagnose “What went wrong,” and offer alternative actions that could have resulted in more positive results. See Learning Experiences Bank for examples.
+
+
+ 
+	Self-knowledge, empathy, perspective
+	OTHER EVIDENCE:                                                                                                                                                                               
+·    Formative Assessment  -  Students will add to their field notes by answering the prompt questions found within the Learning Experiences Bank - Field Notes.
+ 
+	
+
+Learning Plan
+Hooks
+1. Play Serena William’s TED talk interview about accidentally revealing pregnancy via Snapchat
+2. Whole-group discussion about hanging out at the mall, cafeteria etc. and lowering your voice or changing the subject when someone walks up to the group.
+
+
+Best Practices
+* An important principle to follow, as advocated by boyd [sic] (2014) is for adults not to presume they know better than youths about the complex social aspects of networked media.  Instead, understandings should be developed collectively and collaboratively, creating a shared-meaning of appropriate online privacy precautions which should be taken.  This approach helps foster learners’ agency and empowers them to be better equipped to navigate the ever-evolving online space while maintaining a desired level of privacy.
+* Established norms for class discussions will help ensure respectful dialogue. Silent hand gestures for “I agree” and “I think something different” can be helpful
+
+
+        
+        Field Notes Suggested Prompts:
+* Questions and concerns about the researchers’ visit (Privacy policy review activity)
+
+
+ 
+Resources[r][s]
+Serena Williams’ TED Talk interview (First 2 minutes only)
+https://www.ted.com/talks/serena_williams_gayle_king_on_tennis_love_and_motherhood#t-103167
+
+
+To create a word cloud, where responses are visually represented by size, use a polling tool such as PollEverywhere.
+https://www.polleverywhere.com/
+
+
+________________
+Unit 5: Sustainability
+Unit Goal
+An often overlooked aspect of technology is its environmental impact.  Materials used include “rare earth metals” and the rapidly innovative nature of device production means resources are being mined/extracted at an unsustainable rate.  A movement to prolong the lifespan of devices by way of hardware repair and software upgrades, Right to Repair, lends itself to engineering education.
+Essential Questions                                                       
+* Hows does technology impact the environment?
+* Where did the materials come from?
+* How are materials obtained? 
+
+
+Key Understandings
+* Learners will gain awareness of environmental impacts of manufacturing technology devices and building maintaining infrastructure (i.e. internet servers)
+* Consumers influence manufacturing practices with their purchasing decisions.
+* Basic diagnostic skills device repair and upgrade. 
+
+
+Assessments & Tasks 
+
+
+FACETS OF UNDERSTANDING
+	 
+	Interpretation
+	·    PERFORMANCE TASK(S): 
+      Summative Assessment - 
+Position paper - learners will use understandings and conduct research on production, recycling and reusing/refurbishing practices to inform a persuasive essay.  
+ 
+	Self-knowledge Empathy
+Perspective
+Explanation
+Application
+	OTHER EVIDENCE:                                                                                                                                                                               
+·     Formative Assessment  -  Students will add to their field notes by answering the prompt questions corresponding with the particular activity from Learning Experiences Bank - Field Notes.
+ 
+	
+
+Learning Plan
+Hooks
+* Watch iRepair’s video on UK’s Electronic Waste Problem
+* Class discussion: What is the Internet made of?
+* Flashlight repair (middle school and high school)
+
+
+Best Practices
+* Keep the essential questions visible (posted in learning space) and continue to refer to them via their field notes, and discussions.
+* Scaffold repair experiences so that basic problems are encountered initially and gradually build to more complex repair experiences.
+* Learners should expect to, and feel comfortable with experiencing failure.  Having to make several attempts is part of learning to diagnose and repair.
+Accommodations
+* Repair experiences should not be limited to electronic devices. 
+* Prolonging the life of an item involves more than the repair itself.  Allow learners to participate in other ways as well, such as finding people who may benefit from use of a refurbished device.
+        
+        Field Notes Suggested Prompts:
+ 
+Resources[t][u]
+iRepair - Fixing the UK’s Electronic Waste Problem
+https://www.youtube.com/watch?v=vvOpha-0aSE
+
+
+Wired Magazine’s photo of Google Data Center
+https://www.wired.com/wp-content/uploads/blogs/wiredenterprise/wp-content/uploads//2012/10/ff_googleinfrastructure_large.jpg
+
+
+
+
+
+
+
+
+
+
+LEARNING EXPERIENCES BANK
+Field Notes
+
+
+Theme connection
+	Structure 
+	Grade level 
+	* Identity
+* Design
+* Data
+* Privacy 
+* Sustainability
+	* Independent writing or drawing 
+	* Middle School
+* Secondary 
+	 
+Computing concept 
+* Planning 
+* Reflection
+
+
+Real-world context
+Developing knowledge of self and the ability to reflect will help learners connect their classroom experiences to other aspects of their lives. 
+Implementing the task
+The idea behind a design journal is that learners will have a space to reflect on their developing understandings, capture their ideas, and express their feelings or questions about the content covered throughout the units. Learners should be able to personalize their field notes however they see fit this could include drawings, gifs, videos, fonts, etc. Encourage learners to share their design journals with other members of the learning community. 
+Extensions/modifications
+While field notes implies an online document, learners who prefer having a physical journal may create an offline version of their field notes. Decide together whether field notes should be public or private. To connect learners, a shared space that links to all the field notes in the class may encourage a learning community where learners can read and review each other's field notes. However, this may not work for all classes. 
+Task
+
+
+Suggested Prompts:
+* Unit 1: Identity
+   * For me, identity means/includes...
+   * Some ways that technology impacts my everyday life include…
+   * Technology has an impact on the world because...
+* Unit 2 : Design
+   * Who designs technology is important because...
+   * Something/someone that is missing from this technology is…
+   * It is important to recognize diverse creators because…
+* Unit 3 : Data
+   * The type of information that is captured by a piece of technology is important because…
+   * Considering how mathematical models are written and used is important because…
+   * How I feel about privacy online is...        
+* Unit 4: Privacy
+   * What is privacy?
+   * Questions and concerns about the researcher's’ visit (Privacy policy review activity)
+   * What expectations do I have for privacy in the real-world?  How does that compare to my expectations for privacy in online spaces?
+* Unit 5: Sustainability
+   * The Internet is made of…
+   * I can practice more sustainable uses of technology by...
+
+
+Resources
+Sample design journal from the Scratch community: https://www.flickr.com/photos/scratchedteam/14813986673/
+________________
+Data points and identity
+
+
+Theme connection
+	Structure 
+	Grade level 
+	* Identity 
+* Data
+* Privacy
+	* Activity 
+* Follow-up discussion
+	* Elementary
+* Middle school
+* Secondary
+
+
+	 
+Computing concept 
+* Data
+
+
+Real-world context
+Issues of privacy have become explicitly tied with technology. While students may be aware of privacy concerns this activity allows them to explore what data is collected about them and consider how that information may be used. This activity allows students to explore what types of data are collected about them every single day through the technologies they use. 
+
+
+Implementing the task
+This activity may work best as an introduction or wrap up to any of the referenced units. It might also be useful to be repeated if students enjoy the activity or are beginning to change their understandings as the course developers of identities online, data, and privacy. 
+
+
+Extensions/modifications
+This task can be updated with more recent data points as technologies evolve. Incorporating points that may be collected through students favorite technologies will make the task more relevant to their day-to-day experiences. Similarly, the task can be extended by 
+
+
+Task 
+1. Print out data points cards found in the appendix. 
+
+
+1. Have students order the data points on a spectrum 
+   1. This could be from least invasive to most
+   2. Most relevant to them to least
+   3. Other options your class contributes
+
+
+
+
+________________
+
+
+Critical Analysis of Technology
+
+
+Theme connection
+	Structure 
+	Grade level 
+	* Identity 
+
+
+	* Activity 
+* Report
+	* Elementary
+* Middle school
+* Secondary
+	 
+Computing concept 
+* Evaluation of technology 
+Real-world context
+We use so many different technologies everyday but how often do we think about who these technologies had in mind when they were designed. 
+Implementing the task
+This activity is a foundational reflection to get learners started thinking about how technologies are created. To allow learners to see themselves in the technologies they use they should select a piece of software, hardware, app, or device that they use frequently and hadn’t deeply considered the implications of. 
+Extensions/modifications
+This task can be framed as a more formal analysis where students create a document that described the company who created the technology, research on how the technology was intended to be used, and how they themselves use the technology. Alternatively, this could take the form of a presentation on the technology. As this is an activity to encourage learners to see themselves in technology, learners should work independently and keep identity at the core of their project. 
+Task 
+1. Learners will select a technology they use everyday e.g. Instagram, the pedometer on their device, or a weather app. 
+2. Learners will answer: 
+   * How do I use this piece of technology? 
+   * How does it affect or shape my everyday life?
+   * How might others use this technology in a similar way? (in this classroom, at home, or in a different country)
+   * How might others use this technology in different ways? 
+   * What might that say about how I use this technology?
+1. From their responses learners will create a report or presentation on the technology they have chosen. Learners should consider including: 
+   * Images that show the technology
+   * A description of the technology that explains it as though someone had never used this before
+   * The context of use
+   * Examples of when they use this technology
+
+
+
+
+________________
+
+
+Weapons of Math Destruction 
+
+
+Theme connection
+	Structure 
+	Grade level 
+	* Data
+	* Reading
+* Written reflection 
+	* Secondary
+
+
+	 
+Computing concept 
+* Data models
+
+
+Real-world context
+The book Weapons of Math Destruction by Cathy O’Neil (2016) describes the age we live in as the age of the algorithm. She terms harmful statistical models Weapons of Math Destruction or WMDs for short. In these WMDs, “many poisonous assumptions are camouflaged by math and go largely untested and unquestioned” (O’Neil, 2016, p. 7). These algorithms tend to punish the poor by being shaped by the interests of the wealthy and systematically evaluating large numbers of people. This chapter describes what a model is and provides a context for understanding how computers can negatively affect the lives of large groups of people. 
+
+
+Implementing the task
+This activity works best after the topic of data has been introduced and students have a frame to understand the pervasive use of data in predicting outcomes both big and small. As the introduction describes data as used in Baseball if students don’t have an interest in that sport or sports in general skip to the last paragraph on the bottom of page 17 and consider how you can draw on their interests to convey the pervasive use of data. 
+
+
+Extensions/modifications
+If reading a full chapter of the book is not possible consider pulling out sections of the article. Below are some recommended pages that address the overall concepts. For learners who have difficulty reading long texts consider providing an audiobook alternative or descriptive passages with framing. The chapter contains many words students may be unfamiliar with, work with them to highlight these words and post them somewhere so that they can work through these definitions. 
+
+
+Shorter sections to read
+What is a model: Last paragraph of page 18 - 21 second last paragraph. 
+
+
+Task 
+1. Learners will read Chapter 2 of the book Weapons of Math Destruction by Cathy O’Neil
+2. Have a group discussion about some of the models that were discussed in the chapter including:
+   * How some data systems are open/closed better than others
+   * Mental models we use in our everyday lives
+   * Targeted policing and risk models used for court sentencing
+1. Learners will write a reflective essay on the topics discussed. Sample prompts are: 
+   * How did reading this chapter change the way you think and feel about algorithms or computer programs? 
+   * What surprised you from this chapter? 
+   * How can I change algorithms that are written? 
+Vocabulary
+WMDs - Weapons of Math Destruction. 
+Statistical models - A statistical model is a type of mathematical model that uses a set of assumptions based on a sample of data to make predictions about the larger population. 
+Recidivism - Recidivism is the likelihood that a convicted criminal will commit a crime again. 
+Algorithm - An algorithm is a set of rules or steps—like a recipe—to be followed, usually by a computer. 
+Resources 
+Weapons of math destruction - By Cathy O’Neil 
+
+
+
+
+________________
+
+
+Problems with placematch.com 
+
+
+Theme connection
+	Structure 
+	Grade level 
+	* Identity
+	* Online quiz
+* Discussion
+	* Middle
+* Secondary
+
+
+	 
+Computing concept 
+* Metrics 
+* Display of data  
+
+
+Real-world context
+Website quizzes are used for more than just finding out what your favorite beverage says about you, similar systems are also used for determining important decisions that impact individuals such as bank account approvals. This quiz is a real system that people use to make decisions when selecting a neighborhood 
+Implementing the task
+This quiz would work best early on in a unit, or even in the beginning as students are familiarizing themselves with positioning the problems with technology. While this quiz is intended to be answered individually based on the access to technology in the school consider working together in discussion or answer groups so they can think through what these questions might be concealing and how it relates to their personal experiences. 
+
+
+Extensions/modifications
+While sites may change and the service this activity is based on may change consider searching for other quizzes that might relate to your students and challenge them to grapple with the same concept of how we choose where to live and what are the services that are available to people in some communities but not others. 
+Task 
+1. Learners will answer the quiz found on Placelive.com
+2. Think about the intent versus the impact of services that are described in this quiz. 
+3. Through discussions consider what is communicated through the metrics of the quiz and demographic scales of the neighbourhood results. 
+   * What is happening behind the code to predict these results?
+   * Who would use this tool? 
+   * Who lives in the neighbourhoods that are being recommended now? 
+   * What is conveyed by the data? 
+   * How are neighbourhoods shifting? Have you noticed this in your own community? 
+   * How does access to these services affect community members? 
+Vocabulary
+Metrics - Metrics are a way of measuring something. 
+Resources
+https://match.placeilive.com/#start_matching/
+
+
+
+
+________________
+
+
+Critical analysis of Digital Witness 
+
+
+Theme connection
+	Structure 
+	Grade level 
+	* Identity        
+* Privacy
+	* Listening party 
+* Critical analysis
+	* Middle school
+* Secondary
+
+
+	 
+Computing concept 
+* Social media
+
+
+Real-world context
+Is anything worth doing if it can’t be snapped, ‘grammed, or shared? Musicians often reflect on their realities as well as an artist St. Vincent is expressing a difficulty with the constant view technology provides into her life and the consequences this has offline. 
+Implementing the task
+As technology evolves it will likely be featured in more and more songs. If this song choice doesn’t resonate with learners consider choosing another song with similar themes that may appeal to them more. 
+Extensions/modifications
+If the song won’t play or there isn’t an easy way to access audio use print-outs of the lyrics to have the lyrical analysis discussion. 
+Task 
+1. Listen to the song Digital Witness by St. Vincent 
+   * Post or print and pass out the lyrics to the song so learners can read the words and jot down their thoughts as 
+1. Learners will free-write about their reflections of the song right. 
+2. Discuss in small or as a large group about the themes of the song. 
+   * What questions arose? 
+   * Did something stick out? 
+   * Did it remind you of anything? 
+
+
+Resources
+https://www.youtube.com/watch?v=-7LsBjrqqHA
+
+
+________________
+
+
+Design Thinking Challenge
+
+
+Theme connection
+	Structure 
+	Grade level 
+	* Design
+	* Making, building
+* Interview
+	* Elementary
+* Middle School
+* Secondary 
+	 
+Computing concept 
+* Design 
+* Empathy
+* Creativity
+
+
+Real-world context
+Design thinking helps build and develop empathy towards others’ needs, as well as creativity. These two skills are important and necessary in all aspects of life.
+Implementing the task
+This learning experience works best towards the beginning of the unit, when learners are introduced to design thinking.
+Extensions/modifications
+This activity is adaptable to fit many ages, resource availabilities, and time frames. It can be extended to include sophisticated materials and maker spaces (e.g., 3D printers, laser cutters), where the products are intended to have full functionality at the end. It can also be modified to include simple building materials found in most classrooms (e.g., paper, scissors, cardboard, tape), where the end product is a prototype.
+Task
+1. Learners pair up, and identify a Designer and a Client.
+2. Have learners develop a character for the Client to embody for the activity, and they must take up the role of that character. Some examples include: vampire, mother, president, or teacher. Alternatively, the Clients can play themselves.
+3. The Designers must interview the Clients and use design thinking techniques to empathize with them and find out their needs. During the interview, the Clients will empathize with their character to imagine what kinds of needs they would have.
+4. The Designers then ideate a product for the Client, and build it using materials at hand.
+5. The Client and Designer roles are then reversed, and the activity is repeated.
+
+
+Resources
+Bootleg Bootcamp - A great resource for design thinking processes (Empathize, Define, Ideate, Prototype, Test)
+
+
+________________
+
+
+Pseudocode Permission Slip
+
+
+Theme connection
+	Structure 
+	Grade level 
+	* Design
+* Privacy
+	* Groupwork
+* Discussion
+	* Elementary
+* Middle school
+* Secondary
+
+
+	 
+Computing concept 
+* Algorithms
+* Coding
+Real-world context
+In order to learn how to program, learners must understand that coding involves a set of instructions that a computer carries out. By creating specific, accurate, and explicit instructions, the learner develops their communication skills.
+Implementing the task
+This activity works best as an introduction to programming, since it helps students see the importance of thoroughness in writing code. It also introduces learners to the idea of code as a set of instructions, which can demystify its sometimes esoteric nature.
+Extensions/modifications
+If learners do not connect with the form example consider how to pseudocode (list every single step) for another sample activity so that they begin to understand the concept of planning code and writing steps in human-readable form. 
+Task 
+1. An algorithm as a plan or step-by-step instructions for solving a problem. When you make a plan there may be lots of different ways to solve a problem. When you are solving a problem it helps to know what the problem is and what outcome you want to end up with. It also helps to make a plan of the steps it takes to get the outcome you are hoping for. 
+2. Computers have different language that we use to give them instructions these are called programming languages. Sometimes when we are thinking through a program we’d write for a computer it helps to write something called pseudocode. This is “fake” or human readable code that follows the same process or procedural step-by-step way computers need in order to understand something we want them to do. 
+   * See sample code in appendix E. 
+1. Next learners will choose a website that has a form they have previously filled out or one they would need to fill out at some point. 
+2. Learners will work independently to write the pseudocode instructions for an online form
+3. As a group, learners will reflect on:
+   * What is different between the information needed for the offline form example and the online form they chose?
+   * Where does the information go in both form examples? How do they know
+   * Who sees either form? What is your relationship to them?
+Glossary
+Pseudocode
+Pseudocode is a way of explaining code in steps that are understandable to humans. Pseudocode won’t actually work on a computer but it can help your students better understand the way computers think which is in ordered steps. 
+
+
+Algorithm
+An algorithm is a fancy name for a step-by-step list of instructions that a computer will follow. You can think of it as a plan for the computer to follow. 
+
+
+Function
+A named piece of a program that performs a specific task. These are actions e.g. DO this _____
+
+
+Conditionals
+Conditions mean that we are checking to see if a specified requirement is met in order to run a piece of code or in this case a step. E.g. IF it was raining THEN I would put on a rain jacket as I was getting ready. IF it was not raining THEN you wouldn’t put on a rain coat 
+ 
+Loops
+Are steps or for computers a piece of code that gets repeated. 
+
+
+Syntax 
+Rules of how to write statements in a programming language
+________________
+Technology Redesign
+
+
+Theme connection
+	Structure 
+	Grade level 
+	* Design
+	* Activity
+* Redesign
+	* Middle School
+* Secondary 
+	 
+Computing concept 
+* Critical analysis
+* Representation
+* Programming
+
+
+Real-world context
+After critically analyzing objects and phenomena in our everyday lives, it is important to come up with ways to redesign them as we engage in ongoing efforts to affect change for inclusion and representation of diverse views and needs.
+Implementing the task
+This activity is meant to serve as a summative assessment for the Design unit, where the learners will apply the analysis and coding skills they have developed during the Identity and Design units.
+Extensions/modifications
+The redesign portion of the activity will depend on the coding expertise that the learners have developed. This may range from design document (verbally outlining the design changes and additions to be made) to a prototype (semi-functional tool with integrated changes and additions) or final product (fully functional redesigned tool). The activity can also be modified to accommodate individual or group work, depending on learners’ comfort levels and preferences.
+Task 
+1. Learners will evaluate who is represented and who is missing from the application or website that was evaluated in Unit 1
+2. They will then identify the needs of a missing audience using design thinking principles
+3. Plan and prototype (using code) a redesign of the application to incorporate new functions or features
+4. Some guiding questions:
+   * Who is this technology for? Who does it represent?
+   * Who designed it? How does that affect who it is for?
+   * Who is missing from it?
+   * How can we redesign it to make it more inclusive?
+
+
+________________
+Data story 
+
+
+Theme connection
+	Structure 
+	Grade level 
+	* Data
+* Design
+	* Activity
+* Gallery walk or presentation
+	* Elementary
+* Middle School
+* Secondary 
+	 
+Computing concept 
+* Displaying data 
+
+
+Real-world context
+Infographics are used to communicate big ideas from large sets of data. While infographics have changed overtime they are increasingly used in news story both online and offline. The information that is communicated is a choice that a designer or developer has made based on what points they want to display. The data sets provided are real data collected by governments, agencies, or companies.  
+Implementing the task
+In this task students will use a dataset to communicate information. While publically available data sets (found in the appendix) may be useful the information found in these datasets may be large and difficult for some learners to go through. Consider pulling out samples of this data to make it less cumbersome for students to display.  
+Extensions/modifications
+Students may need additional assistance using some of the suggested tools. Students may also want to plan how information to display on paper prior to using an online tool. As charting tools change some of the suggested tools may no longer be available, consider searching for ‘data visualization tools’ to find newer or other options. 
+Task 
+1. Have learners select a data set that has information that appeals to them
+2. Learners will review the data set and develop a question or hypothesis they want to answer using the data. 
+3. Learners will analyze the data to determine if their question can be answered and what the answer is based on what they find. 
+4. Learner will then tell a story about the results using in an infographic format, presentation, or report. 
+   * Tools that may be useful are: Canva, Google Charts, High Charts, Tableau, or another tool. 
+1. Learners will describe their data synthesis process, outcome, and display in a gallery walk or presentation format. 
+Resources
+See data set suggestions found in the appendix. 
+
+
+https://www.canva.com/
+https://developers.google.com/chart/
+https://www.highcharts.com/
+https://public.tableau.com/s/
+
+
+
+
+
+
+
+
+________________
+A.I. logic
+
+
+Theme connection
+	Structure 
+	Grade level 
+	* Data
+	* Activity
+	* Middle School
+* Secondary 
+	 
+Computing concept 
+* Artificial intelligence 
+
+
+Real-world context
+Artificial intelligence is not a new concept but it has started to finally be realized in ways that people experience every day. From Siri, to Google Home, chat bots, and other new technologies artificial intelligence is being used to communicate information to humans. 
+Implementing the task
+This activity students will think about the Turing test and how intelligent behavior or robots are perhaps not only found in science fiction books.  
+Extensions/modifications
+As this activity involves a video, transcripts of the video for learners who have hearing disabilities or have difficulty focusing when watching video content. 
+Task 
+1. How do machines think? What the Turing test video: https://www.youtube.com/watch?v=sXx-PpEBR7k
+2. Learners will go to http://www.20q.net/ and choose ‘Think Like an American’
+   * Have learners play the game with an item of their choice.
+      3.   Discuss as a group
+   * How intelligent is this? 
+   * Would it pass the Turing Test? 
+   * Why do people care about AI or chatbots? 
+   * Would it ever be important for a computer to know you are human? 
+   * What about CAPTA? 
+
+
+Resources
+This lesson was adapted from a lesson presented at CSNYC. 
+
+
+________________
+
+
+Creative Commons Collage
+
+
+Theme connection
+	Structure 
+	Grade level 
+	* Identity
+* Design
+* Data
+	* Watch movie
+* Collage 
+	* Elementary 
+* Middle School
+* Secondary 
+	 
+Computing concept 
+* Open Source Design
+
+
+Real-world context
+Open source software is a movement dating back to the 1980s. New licensing agreements changed the way that information can be shared, distributed, and edited online. Open source has become a movement that empowers computer users and connects individuals users to communities that freely share knowledge. 
+Implementing the task
+This activity works best early on in the curriculum or units to allow learners to understand the Open Source movement and why this curriculum is being used. It also allows learners to using, remixing, and creating with open source images, software, and audio. 
+Extensions/modifications
+Task 
+1. Introduce learners to the concept of open source creation through the video 
+        https://www.youtube.com/watch?v=a8fHgx9mE5U
+1. Discuss
+   * What was new or exciting about the open source movement? 
+   * How an open source mindset allows us to reach higher standards than we could alone
+   * What fields or areas would this mindset be useful for, where it isn’t used now? 
+1. Learners will create a Creative Commons (CC) collage using images, text, or audio licensed for free use online. 
+2. Learners will present and view each other’s CC Collages through a gallery walk 
+Resources
+This video uses LEGO to describe the concept and history of the open source software movement. The video covers the movement and its impact on the software community in a way that is understandable for all audiences—no matter their level of computing knowledge. 
+https://www.youtube.com/watch?v=a8fHgx9mE5
+
+
+Open Source shares resources on open source solutions. They publish a blog that provides tips on how to open source technologies, event updates, and information on the open source community. 
+https://opensource.com/
+
+
+CC Search works much like Google but instead of showing pages on the internet it provides links to Creative Commons images pooled from various sites on the internet. From clip art to google images CC return images hosted by other platforms that are freely available to use, modify, or remix. 
+https://search.creativecommons.org/
+Glossary
+Open source
+Refers to software, images, sources that are made freely available for redistribution or modification online.    
+
+
+
+
+
+
+ 
+
+
+________________
+
+
+Google Autocomplete[v][w]
+
+
+Theme connection
+	Structure 
+	Grade level 
+	* Data
+	* Research activity
+* Discussion
+	* Middle School
+* Secondary 
+	 
+Computing concept 
+* Search algorithms
+
+
+Real-world context
+Google 40,000 searches a second. That is a massive amount of questions that are being answered by a search engine! But how does autocomplete prompt users to search for certain terms? Google reports that autocomplete suggestions reflect content on the web and search activity by the user. How might this be a problem for certain users? 
+Implementing the task
+This activity works best by dividing up learners into groups so that each team is using a different set of search stems and no two groups are repeated the search stems. 
+Extensions/modifications
+While some of the search terms to begin with are better for older audiences others will work across age groups. In addition to the suggested terms to use, tailor terms to learners interests or communities. 
+Task 
+1. Print out copies of the autocomplete terms to have learners explore
+2. Have learners form groups to complete the autocomplete task
+3. Have learners document their findings to share out with the class later. 
+   * What would someone think if they found these results. 
+   * Are the results even or skewed? 
+   * Do you think the results reflect the questions you tend to search for? 
+Resources
+See the appendix for a list of sample search terms to begin with. 
+Watch this TED talk on Filter Bubbles and have students reflect on how autocomplete may encourage or burst the filter bubble  https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles
+________________
+Draw a Computer Scientist 
+
+
+Theme connection
+	Structure 
+	Grade level 
+	* Identity
+	* Collaborative creative activity
+* Discussion
+	* Elementary 
+* Middle School
+
+
+	 
+Computing concept 
+* Who codes matters 
+
+
+Real-world context
+Computer scientists are often thought of as being predominantly white and male. While this stereotype does reflect the demographics of the computer science industry, it doesn’t highlight the contributions of many diverse members of this field. 
+Implementing the task
+While this activity relates to the identity unit it can be repeated in other units to see how learners understanding of what a computer scientist changes as they learn how to code and can begin to envision themselves as computer scientists as well. Showing learners the Technies Project as an example of diversity in technology is a follow-up intended for secondary school learners. 
+Extensions/modifications
+As an alternative to having learners draw scientists, learners can share images, memes, or gifs of science in a shared google doc. 
+Task 
+1. Provide learners with materials to draw computer scientists or create a shared document learners can paste science images in.  
+2. Learners will discuss the assumptions they have about people who work with computers.
+   * Do they see themselves as able to fill these roles? 
+   * Why do you think we form stereotypes about careers? 
+   * Why is it important to have diverse teams creating technology? 
+      * What benefits do you have when working with new people with different ideas? 
+      * Is it harder or easier? 
+Resources 
+As a follow-up to this discussion refer to the Techies Project describes in the resources list. 
+http://www.techiesproject.com/
+________________
+Initial Privacy Attitudes
+
+
+Theme connection
+	Structure 
+	Grade level 
+	* Identity
+* Privacy
+	* Discussion
+
+
+	* Elementary 
+* Middle School
+* High School
+
+
+	 
+Computing concept 
+* What is privacy?
+* Does privacy matter to me?
+* Does your identity impact your view of privacy?
+
+
+Real-world context
+People often feel differently about online privacy than about privacy in the physical, real-world.  This activity aims to uncover the ways people are tracked online, how it might feel to have that kind of surveillance in our physical world and how we actually grant permission for this information to be collected and sometimes shared.
+
+
+Extensions/modifications
+These discussion questions could be used for self-reflection prompts in the Field Notes journal in addition to the verbal discussion and could serve as a pre-assessment tool.
+Task 
+Class discussion of impressions of privacy in online contexts:
+* What is privacy?
+* Do you care about privacy?  (In any aspect of life)
+* Why does privacy matter? Does privacy matter?
+* If you do want privacy, why do you participate in social media?  Is posting information and having public conversations the opposite of having privacy?
+* Who do you intend to be your audience on social media?
+* Is it possible that your audience contains people whom you do not want to be viewing your profile, story, timeline etc?
+
+
+Note: not all questions need to be posed, but should be used as a guide.
+
+
+Privacy Policy Review
+
+
+Theme connection
+	Structure 
+	Grade level 
+	* Identity
+* Privacy
+	* Role-play
+* Discussion
+* Research
+	* Elementary 
+* Middle School
+* High School
+
+
+	 
+Computing concept 
+* What is privacy?
+* Does privacy matter to me?
+* Does your identity impact your view of privacy?
+
+
+Real-world context
+People often feel differently about online privacy than about privacy in the physical, real-world.  This activity aims to uncover the ways people are tracked online, how it might feel to have that kind of surveillance in our physical world and how we actually grant permission for this information to be collected and sometimes shared.
+Implementing the task
+* Privacy policies may be lengthy and filled with advanced legal language.  It is recommended that brief and relatively simple-worded policies are chosen.  
+* Choosing privacy policies of websites and applications that students use offers meaningful motivation.
+
+
+Extensions/modifications
+Privacy policies will be evaluated in small groups.  Multiple groups may be assigned the same policy or each group may have different policies.
+Task 
+1. Announce to the whole-group that researchers will be visiting the school to conduct a day-long study on [grade level]ers.  The observations will include noticing what parts of the school building are visited, who you interact with, and “things like that.”
+2. Instruct the learners to individually write down questions and concerns they have about the researchers’ visit in their field notes, then have a whole-group share of some of their questions and concerns.
+3. Reveal that there will in fact not be any researchers visiting the school, but that the point was to elicit feelings and attitudes about the concept of privacy.  
+4. Facilitate a brief discussion of how/if attitudes differ about online privacy.
+   1. We agree to these kinds of observations when we register for online accounts.  Do we take the time to read privacy agreements?
+1. Discuss the use of “cookies” and “third party companies.” (See glossary for definitions)
+2. Distribute printed copies of privacy policies to websites/applications students typically use for personal or school purposes.  Have them indicate where cookies and third party companies are mentioned and what the policy is for them.  Also have students mark anything they find surprising or that they are not comfortable with.
+
+
+Resources 
+Lesson adapted from Common Sense Media model lesson
+https://www.commonsensemedia.org/educators/lesson/whats-big-deal-about-internet-privacy-6-8
+
+
+Tumblr Privacy Policy
+https://www.tumblr.com/policy/en/privacy
+Choose-Your-Own Path-Games
+Kung Fu Fibber and Sticky Situation
+
+
+Theme connection
+	Structure 
+	Grade level 
+	* Identity
+* Privacy
+	* Independent play 
+* Small group discussion
+* Whole-group discussion
+* Field Notes entry
+	* Middle School
+
+
+	 
+Computing concept 
+* Ethical and safe participation in online spaces.
+
+
+Real-world context
+Many online tools/services allow users ages 13+ to create accounts without parental consent.  Awareness for the consequences of offering personal information such as images, geographical information, and interests will help learners make informed decisions when creating and using online tools and services.
+Implementing the task
+* Allow the students to play each game more than one time, encouraging them to experiment with different decisions.  
+* It is not feasible for learners to try every possible outcome, therefore it is recommended that students have an opportunity to share their decision paths with peers via paired or small group discussions.  
+* Facilitate whole-group discussion to synthesize understandings
+* Field Notes entry - Write about a time you have found yourself in a similar situation as one of the characters.  After playing Kung Fu Fibber and Sticky Situation, what might you have done differently?
+Extensions/modifications
+* Games offer closed captioning and Spanish language settings
+Task 
+These games use narratives that young learners may relate to in relation to online privacy.  Kung Fu Fibber is story about a character who is faced with the opportunity to be misleading  on social media about having earned a black belt in Kung Fu.  Sticky Situation is about a character who decides to create a social media account and is faced with decisions about reading the privacy policy and prompts for personal information.
+Resources 
+Kung Fu Fibber and Sticky Situation are available via Digital Compass
+https://www.digitalcompass.org/game/index.html
+
+
+Choose-Your-Own Path-Games lesson was adapted from Common Sense Media’s model lesson
+https://www.commonsensemedia.org/videos/digital-compass-in-action
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Safe Surfing
+
+
+Theme connection
+	Structure 
+	Grade level 
+	* Identity
+* Privacy
+	* Whole-group video screening
+* Whole-group discussion
+
+
+	* Elementary School
+
+
+	 
+Computing concept 
+* Safe participation in online spaces.
+
+
+Real-world context
+Though parents and teachers should always monitor young children’s use of the internet, this learning experience serves as an introduction to basic safety practices.  It is recommended that adults model safe practices as well and encourage young children to always consult a grown-up before interacting with others online or registering for any online accounts.
+Implementing the task
+* A projector, large monitor or interactive whiteboard is recommended for presenting the video
+Extensions/modifications
+* BrainPOP Jr. offers closed captioning 
+Task 
+* Whole-group viewing of Internet Safety video from BrainPOP Jr.
+* Debrief with whole-group
+* Activity: Provide blank Suggested Websites list.  Learners will ask family, friends, other teachers for kid-friendly website recommendations
+Resources 
+Internet Safety video is available via BrainPOP Jr.
+https://jr.brainpop.com/artsandtechnology/technology/internetsafety/
+
+
+Suggested Websites sheet is available via BrainPOP Jr. 
+https://jr.brainpop.com/artsandtechnology/technology/internetsafety/activity/
+Privacy Case Study
+
+
+Theme connection
+	Structure 
+	Grade level 
+	* Identity
+* Privacy
+	* Collaborative research
+* Presentation
+	* Middle School
+* High School
+
+
+	 
+Computing concept 
+Attitudes about online privacy
+* “Public-by-default, private-through-effort” (boyd, 2014, p. 62) 
+
+
+Content on social networks is:
+* Persistent
+* Visible
+* Spreadable 
+* Searchable
+(boyd, p. 11)
+
+
+Real-world context
+The unit understandings will culminate with learners choosing a real-life case study concerning online privacy.  These cases will offer an opportunity to apply concepts from the unit in an analytical context.
+Implementing the task
+Learners may choose from a list of provided case studies or propose one they have found.
+Extensions/modifications
+Other forms, besides written assignments, may be utilized for presentation of analysis:
+* Podcast
+* Film
+* Website
+Task 
+1. Introduce case study assignment
+2. Present case study options - more than one group may choose the same case study
+3. Case studies may be presented to whole-group
+4. Examples of case studies include:
+* NBC News: Teacher’s Lesson on Social Media Dangers Goes Viral
+* Theives Use Instagram to Rob Formula 1 Racer’s Hotel Room
+* Arizona Facebook Scammers
+* Girls Around Me App
+* Always-On Microphones
+Resources 
+Introductory information may be found for each of the aforementioned case studies on the following websites:
+* NBC News: Teacher’s Lesson on Social Media Dangers Goes Viral                http://playback.nbcnews.com/videoredirect/h264/std/tdy_jones_teacher_150103.mp4
+* Theives Use Instagram to Rob Formula 1 Racer’s Hotel Room                http://www.socialmediatoday.com/social-networks/adhutchinson/2015-08-08/social-media-privacy-and-scams-3-recent-cases-highlight-need
+* Arizona Facebook Scammers
+http://www.socialmediatoday.com/social-networks/adhutchinson/2015-08-08/social-media-privacy-and-scams-3-recent-cases-highlight-need
+* Girls Around Me App
+        https://www.scu.edu/ethics/privacy/case-study-on-online-privacy/
+* Always On-Microphones                https://www.aclu.org/blog/free-future/privacy-threat-always-microphones-amazon-echo
+Position Paper
+
+
+Theme connection
+	Structure 
+	Grade level 
+	* Sustainability
+
+
+	* Independent activity
+* Presentation (optional)
+	* Middle School
+* High School
+
+
+	 
+Computing concept 
+* Reuse versus Recycle
+* Lifecycle of devices
+
+
+Real-world context
+Having learned about the rationales for Right to Repair as well as first-hand experiences of repairing/upgrading devices, learners will leverage understandings to persuade others to adopt sustainable practices.
+Implementing the task
+* As a summative assessment, the position paper will provide the opportunity for learners to apply their understandings and attitudes to persuade others to adopt certain practices.  Any position is valid so long as it is supported with evidence.
+Extensions/modifications
+* Optional: Including a presentation component to the position paper may be a way to provide an audience beyond the classroom community.
+Task 
+1. Compose an essay that presents background information on an issue related to sustainability: present position, present rebuttal/counter-argument.
+
+
+________________
+Flashlight Repair
+
+
+Theme connection
+	Structure 
+	Grade level 
+	* Sustainability
+	* Collaborative problem-solving activity
+* Discussion
+	* Elementary 
+
+
+
+
+	 
+Computing concept 
+* Diagnosing
+* Debugging
+
+
+* Assembly/Repair
+
+
+Real-world context
+Realizing that we have the capabilities to repair items that have lost function empowers learners to experience first-hand how to “bring something back to life” rather than simply dispose of it.
+Implementing the task
+* Though this is designed for elementary school grade levels, it can be utilized as a “hook” for middle school and high school grade levels.
+* This activity works well with learners working in pairs, to promote collaboration and high levels of participation.  
+Extensions/modifications
+* Providing a functional flashlight as a model may help guide learners, especially if it is their first experience 
+* Other objects which may be reassembled: Pen, basic pencil sharpener, computer mouse 
+
+
+Task 
+1. Introduction to experience
+2. Prompt: Learners task is to make the flashlight illuminate.
+3. Provide unassembled components of flashlight including batteries
+4. Students work (without instructions) to assemble flashlight so that it is functional (illuminates)
+Resources 
+Dollar stores are an economical place to obtain simple, full-sized flashlights.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+iFixit Guides
+
+
+Theme connection
+	Structure 
+	Grade level 
+	* Sustainability
+	* Collaborative activity
+* Self-guided
+	* High school
+
+
+	 
+Computing concept 
+* Diagnosing
+* Troubleshooting
+* Dubugging
+* Simple engineering
+* Programming (coding)
+Real-world context
+Realizing that we have the capabilities to repair items that have lost function empowers learners to experience first-hand how to “bring something back to life” rather than simply dispose of it.
+Implementing the task
+iFixit offers crowd sourced repair guides for various devices and non-digital items including apparel.  To allow for authentic learning experiences, iFixit guides should be utilized in a manner which allows for learners to work on items that need repair, as opposed to items that are not salvageable.   
+Extensions/modifications
+* Repair guides may be used for non-digital items such as apparel.
+* As student become skilled in diagnostics and repair, a school repair center may be viable.
+* If learners discover a method for repair that is not offered in an iFixit guide, they may contribute to writing a guide or posting solution(s) on discussion board.
+Task 
+* Learners can check iFixit guides to determine if one is offered for the device/issue they have encountered.
+* If there is no guide, additional research may be necessary as well as “tinkering.”
+* If a solution is discovered, learner may opt to start a new guide or add to an existing one.
+Resources 
+iFixit offers categorized repair guides for a variety of devices and items: https://www.ifixit.com/Guide
+
+
+iFixit also offers startup kits with tools and device components: https://www.ifixit.com/Store
+
+
+________________
+Portfolio Prep
+
+
+Theme connection
+	Structure 
+	Grade level 
+	* Identity
+* Design
+* Data
+* Privacy 
+* Sustainability
+	* Independent writing or drawing 
+	* Elementary
+* Middle School
+* Secondary 
+	 
+Computing concept 
+* Planning 
+* Reflection
+
+
+Real-world context
+Developing knowledge of self and the ability to reflect will help learners connect their classroom experiences to other aspects of their lives. Choosing relevant selections of their work will help students practice reflection as a key part of their learning.
+Implementing the task
+The purpose of the portfolio showcase is to wrap up the five units and exhibit student understandings to peers and community members. This portfolio prep activity is a chance for the students to reflect on what the most important or meaningful snapshots were throughout the units, and thus to make meaning of all of Open CS as a whole.
+Extensions/modifications
+The portfolio format is variable. Learners who are comfortable with coding can create their own websites, while those who are not can use a website-creating tool to make it (see the last step under Tasks). Alternatively, the portfolio can be created as a physical object.
+Task
+1. Learners read their Field Notes and select entries that they would like to include in their final portfolio. Selection guidelines may include:
+   1. Does the entry exhibit learning?
+   2. Does the entry show progress?
+   3. Is this entry personally meaningful in any way?
+1. For each selected entry, learners must write a short justification or explanation. Guiding questions/prompts may include:
+   1. This entry is important to me because…
+   2. This entry shows that I learned…
+   3. I was struggling with _____ when I created this entry. I overcame this by…
+   4. This entry shows my progress in ______ because…
+1. Learners will then write a final reflection on the whole portfolio as well as their overall experience with Open CS.
+2. The portfolio will be formatted as a website, where the selected entries may be categorized in different ways depending on what the learner or instructor chooses is appropriate. The website may be created from scratch (if learners were engaged in more advanced programming), or using website-creating tools like Google Sites, Weebly, or WordPress.
+________________
+ANNOTATED LIST OF RESOURCES
+Twitter 
+#EthicalCS 
+Hashtag Ethical CS has been used to connect educators interested in teaching Computer Science through a critical lens. The ethics of computing have been shared throughout this community and deeply informed the content, units, and activities of this curriculum. 
+https://twitter.com/search?q=%23EthicalCS&src=typd
+
+
+@jovialjoy / @AJLUnited
+Joy Buolamwini, a self-described poet of code, is the founder of the Algorithmic Justice League and a researcher at the MIT Media Lab. The Algorithmic Justice League aims to increase awareness about algorithmic bias, which is bias coded into algorithms that spread far and wide. Accountability and transparency are missing from many of these algorithms so that people who use them or are affected by them don’t have insight into the harm that algorithmic bias causes. 
+https://www.ted.com/talks/joy_buolamwini_how_i_m_fighting_bias_in_algorithms#t-5039
+
+
+@jeannieccrowley
+Jeannie Crowley plays a critical role in the Ethical CS community. She is involved in a variety of outreach work to change the way that we think about teaching computer science. 
+https://twitter.com/jeannieccrowley
+
+
+@openculture
+Open culture is a blog that provides pop culture-related posts that include free audio books, eBooks, playlists, and videos. This account is a great resource for finding videos or information to build out additional open source lessons or connect content to students interests. 
+https://twitter.com/openculture
+
+
+@opensourceway
+Open source.com shares tweets from the open source community including ways to practice more open source computing. It applies the practices of open source development beyond software to change the world. As the name of the document would imply open source influenced our thinking and planning of this curriculum. 
+https://twitter.com/opensourceway
+
+
+@ScratchEdTeam
+The ScratchEd account is a resource for educators using the Scratch platform in their classrooms. This account also hosts weekly chats using the hashtag #ScratchChat to connect educators around topics related to using Scratch. 
+https://twitter.com/ScratchEdTeam
+Media
+ScratchEd Team Flickr
+This Flickr gallery contains samples of student-created Design Journals, a similar concept to the Field Notes used in our curriculum. 
+https://www.flickr.com/photos/scratchedteam/14813986673/
+
+
+LEGO Open Source
+This video uses LEGO to describe the concept and history of the Open Source software movement. The video covers the movement and its impact on the software community in a way that is understandable for all audiences—no matter their level of computing knowledge. 
+https://www.youtube.com/watch?v=a8fHgx9mE5U
+
+
+Open Source
+Open Source shares resources on open source solutions. They publish a blog that provides tips on how to open source technologies, event updates, and information on the open source community. 
+https://opensource.com/
+
+
+Creative Commons
+CC Search works much like Google but instead of showing pages on the internet it provides links to Creative Commons images pooled from various sites on the internet. From clip art to google images CC return images hosted by other platforms that are freely available to use, modify, or remix. 
+https://search.creativecommons.org/
+
+
+Black Code
+Black Code examines the critical impact that the Internet continues to have on free-speech, privacy, and activism. The film explores how governments play a role in manipulating the internet to control citizens. This film is an interesting look at the limits that unlimited information has on citizens. 
+https://www.youtube.com/watch?v=BW2_2fOfdNI
+
+
+Filter Bubbles TED Talk
+The filter bubble has become a widely accepted concept that described how social media, filtering and algorithms show users stories that already align with their interests and political affiliations. This TED talk describes the filter bubble and why it is important to consider.
+https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles
+
+
+
+
+Place Match
+Place Match is used in an activity for the Data unit. This online tool collects answers from a quiz to make a match of a New York neighbourhood. The website is created by a self-described group of young entrepreneurs who want to help people find their dream homes. Students will use this resource to consider who this tool is intended for and what outcomes it may lead to such as gentrification.   
+https://match.placeilive.com/#start_matching/
+
+
+Digital Witness
+Digital Witness by St. Vincent is a song that describes the artist's struggle with the constant surveillance of social media. Learners will listen to this song and consider what themes are discussed and if they resonate with the lyrics, theme, and tone of this song. 
+https://www.youtube.com/watch?v=-7LsBjrqqHA
+
+
+Graphing Tools
+This list of graphing tools are intended for use as part of the ‘Data Story’ activity but may prove useful for other classroom activities where students are presenting information to the class. 
+https://www.canva.com/
+https://developers.google.com/chart/
+https://www.highcharts.com/
+https://public.tableau.com/s/
+
+
+Techies Project
+This website shares the stories of people who tend to be underrepresented individuals in the narratives told about tech employees working in Silicon Valley. It includes stories about women, people of color, LGBQT, working parents, and individuals with disabilities. 
+http://www.techiesproject.com/
+
+
+Ind.ie
+Ind.ie is a company dedicated to the ethical design of technology, as well as social justice in the digital age. Their manifesto promotes the idea of diversifying the designer and programming population so that more groups may be represented in technology today.
+https://ind.ie/ethical-design/
+
+
+The Gender AI
+This video described a Google-backed AI, called GDIQ, has been used to measure gender bias in movies. This tool measures inequality across scenes to provide an analysis of not only gender analysis, but how long a character speaks, and appears on screen. Google engineers teamed up with researchers from the University of Southern California to draw attention to gender bias in media.
+https://vialogues.com/vialogues/play/35611/
+
+
+Introduction to design-thinking
+An introduction to design thinking, with an explanatory video that can be used by teachers or shown in the classroom. It also includes four online courses that takes the learner through the design process.
+http://www.ideou.com/pages/design-thinking
+
+
+Design Thinking
+A virtual crash course video to design thinking. The 90-minute video takes the viewer through a full design cycle, and models an activity that can be implemented in many classrooms and settings.
+https://dschool.stanford.edu/resources/virtual-crash-course-video
+
+
+Common Sense Media Privacy
+Privacy lesson adapted from Common Sense Media model lesson on connection between real-world privacy and online privacy.
+https://www.commonsensemedia.org/educators/lesson/whats-big-deal-about-internet-privacy-6-8
+
+
+Tumblr Privacy Policy
+For use with policy review activity.
+https://www.tumblr.com/policy/en/privacy
+
+
+Digital Compass
+Kung Fu Fibber and Sticky Situation are available via Digital Compass. These games pertain to decisions regarding identity and privacy.
+https://www.digitalcompass.org/game/index.html
+
+
+Choose-Your-Own Path-Games lesson was adapted from Common Sense Media’s model lesson.
+https://www.commonsensemedia.org/videos/digital-compass-in-action
+
+
+BrainPOP
+Internet Safety video and Suggested Websites sheet are available via BrainPOP Jr.
+https://jr.brainpop.com/artsandtechnology/technology/internetsafety/
+https://jr.brainpop.com/artsandtechnology/technology/internetsafety/activity/
+
+
+Case Study information:
+NBC News: Teacher’s Lesson on Social Media Dangers Goes Viral                http://playback.nbcnews.com/videoredirect/h264/std/tdy_jones_teacher_150103.mp
+Theives Use Instagram to Rob Formula 1 Racer’s Hotel Room                http://www.socialmediatoday.com/social-networks/adhutchinson/2015-08-08/social-media-privacy-and-scams-3-recent-cases-highlight-need
+Arizona Facebook Scammers
+http://www.socialmediatoday.com/social-networks/adhutchinson/2015-08-08/social-media-privacy-and-scams-3-recent-cases-highlight-need
+Girls Around Me App
+https://www.scu.edu/ethics/privacy/case-study-on-online-privacy/
+Always On-Microphones                https://www.aclu.org/blog/free-future/privacy-threat-always-microphones-amazon-echo
+
+
+iFixit
+A major resource for the sustainability unit is the iFixit organization.  They offer open sourced repair guides as well as low-cost tools and replacement parts: 
+https://www.ifixit.com/Guide
+https://www.ifixit.com/Store
+
+
+iRepair
+YouTube video describing UK’s electronic waste problem and how the repair movement can help.
+https://www.youtube.com/watch?v=vvOpha-0aSE
+
+
+Wired Magazine
+Wired Magazine’s photo of Google Data Center. This is a photograph of the physical infrastructure needed for the volume of web traffic and cloud storage Google manages.
+https://www.wired.com/wp-content/uploads/blogs/wiredenterprise/wp-content/uploads//2012/10/ff_googleinfrastructure_large.jpg
+
+
+Serena Williams’ TED Talk interview
+First 2 minutes only. Williams describes her intent for the photo and how the push of one wrong button revealed her pregancy to the world.
+https://www.ted.com/talks/serena_williams_gayle_king_on_tennis_love_and_motherhood#t-103167
+
+
+PollEverywhere
+To create a word cloud, where responses are visually represented by size, use a polling tool such as PollEverywhere.
+https://www.polleverywhere.com/
+
+
+
+
+Books
+Weapons of Math Destructions by Cathy O’Neil 
+Learners read a chapter from Weapons of math destruction as an activity in the Data unit. This  chapter describes how math models, sometime also called algorithms, are used to make decisions that have widespread outcomes on individuals lives. The chapter begins with baseball and ends with court sentencing, to depict the scope of math models. 
+
+
+Outside lessons
+
+
+CSNYC
+CSNYC is a New York City-wide initiative to bring computer science experiences to learners of all levels across New York. The Meetups put on by this group provide a community of practitioners with resources and best practices for teaching CS. While they are New York-based, the discussions often have open documents and record all their meetings for educators outside NYC to watch. 
+https://www.meetup.com/CSNYC-Education-Meetup/
+
+
+The Giraffe and the Platypus
+This lesson includes two story sheets that look identical but are in fact different. Half the class should be provided with the first sheet. While the other half should be given the second story. The class leader will read one of the sheets (it doesn’t matter which copy of the story). Learners will then answer the debrief questions. While the questions are framed for educators answering about a child the language should be changed to address learners. 
+http://cok-5code.weebly.com/uploads/5/7/1/9/57197685/equity_session_resources-_giraffeandplatypus.pdf
+
+
+Blockly
+This lesson was created by BrainPOP and uses a game-type interface to engage students in the basics of programming. The focus is on algorithms in code. The lesson plan incorporates partner work, graphic organizers, and discussions to include a wide variety of activities.
+https://educators.brainpop.com/lesson-plan/computer-coding-lesson-plan-blockly-maze-game/
+
+
+Scratch
+A beginner’s tool to learning to code, usually involves drag-and-drop interface that is user-friendly for many types of learners. It is a great tool for learning about the basic principles of code (e.g., algorithms, variables, objects, methods).
+https://scratch.mit.edu/
+
+
+Codecademy
+Codecademy is a well-known resource with free online courses that teach a wide variety of programming languages. It is a useful tool for teachers who are not comfortable with writing or teaching code, and may like to include a virtual instructor for this part of the curriculum. The students and teacher may even take the courses simultaneously, and help each other in the process of learning to code.
+https://www.codecademy.com/
+Content Standards 
+K12 Computer Science Framework
+As defined in the overview of this framework “building an inclusive and diverse computing culture requires strategies for incorporating perspectives from people of different genders, ethnicities, and abilities” (K12CS Framework). These diverse perspectives should be considered as software is being developed. This set of content standards was the most aligned with OpenCS. 
+https://k12cs.org/wp-content/uploads/2016/09/K%E2%80%9312-CS-Framework-Statements-Grade-Band-View.pdf
+
+
+CSTA Standards
+The Computer Science Teachers Association Interim standards recognize the flurry of interest that is currently surrounding computer science and guides educators towards best practices for teaching in their field. As this guide also works across K-12 levels it will be a useful reference for educators using Open CS. 
+https://c.ymcdn.com/sites/www.csteachers.org/resource/resmgr/Docs/Standards/2016StandardsRevision/INTERIM_StandardsFINAL_07222.pdf
+
+
+Template by: Handle Branding http://www.handlebranding.com/design-templates/magazine-design-templates_1
+________________
+APPENDIX 
+Appendix A: Glossary[x]
+Algorithm
+An algorithm is a set of rules or steps—like a recipe—to be followed, usually by a computer. 
+
+
+Block 
+To deny another user from contacting you or viewing your profile.
+
+
+Block-based programming language
+Programming languages that let users create programs by manipulating blocks or other graphical elements, rather than writing code with text. Examples include Scratch and Blockly (see Resources). 
+
+
+Cloud
+This term is frequently used but not often clearly defined. The term ‘the cloud’ refers to the network of computers that provide shared computer processing on demand. 
+
+
+Code
+A command designed to be carried out by a computer.
+
+
+Computer processing
+Computer processing is the action of processing data, images, etc. by a computer. 
+
+
+Conditionals
+Conditions mean that we are checking to see if a specified requirement is met in order to run a piece of code or in this case a step. E.g. IF it was raining THEN I would put on a rain jacket as I was getting ready. IF it was not raining THEN you wouldn’t put on a rain coat 
+ 
+Cookies
+Small amount of data that is sent to a computer’s hard drive from a web server.  They can be used to collect information, like links that have been clicked on.  When you tell a website to remember your login information, it uses cookies to do so.
+
+
+Data
+Data is the quantities, characters, or symbols, on which operations (+, -. =, >, <) are performed by a computer. 
+
+
+Debugging
+Finding and fixing problems or errors in programs. 
+
+
+Download
+To save a file from the internet 
+
+
+Function
+A named piece of a program that performs a specific task. These are actions e.g. DO this _____
+
+
+Login
+A unique username and password users create for an account
+
+
+Loops
+Are steps or for computers a piece of code that gets repeated. 
+
+
+Message
+A note from another user.
+
+
+Metrics
+Metrics are a way of measuring something. 
+
+
+Open source
+Refers to software, images, sources that are made freely available for redistribution or modification online.   
+
+
+Pair-programming
+One programmer (the driver) writes code, while the other (the navigator) reviews it line by line and the roles are switched regularly. 
+
+
+Privacy
+The amount information shared about someone.
+(For upper grades, use class-generated definition)
+
+
+Program
+An algorithm that has been coded into something than can be run by a computer or other machine. 
+
+
+Pseudocode
+Pseudocode is a way of explaining code in steps that are understandable to humans. Pseudocode won’t actually work on a computer but it can help your students better understand the way computers think, which is in ordered steps. 
+
+
+Recidivism
+Recidivism is the likelihood that a convicted criminal will commit a crime again. 
+
+
+Share
+Offering information including video, sound, and photographs.
+
+
+Social media
+Websites that allow people to share content with each other.  Also referred to as “social networks.” 
+
+
+Statistical models
+A statistical model is a type of mathematical model that uses a set of assumptions based on a sample of data to make predictions about the larger population. 
+
+
+Syntax 
+Rules of how to write statements in a programming language
+
+
+WMDs
+Weapons of Math Destruction. 
+
+
+________________
+Appendix B: Data Points and Identity Terms
+
+
+
+
+Computer IP address
+
+
+	
+
+Gender
+	
+
+Geolocation
+	
+
+Metrocard swipe history
+
+
+	
+
+Default language settings
+	
+
+Tagged images
+	
+
+Netflix watch history
+
+
+	
+
+Twitter DMs
+	
+
+Instagram comments
+	
+
+Browser history
+
+
+	
+
+Full name
+	
+
+School
+	
+
+Follower list
+
+
+	
+
+Snapchat stories
+	
+
+Conversations had in front of your smart device 
+	
+
+Ads you’ve clicked on
+
+
+	
+
+Childhood photos
+	
+
+Phone number
+	
+
+Purchases made with a debit/credit card
+
+
+	
+
+Grades
+	
+
+Social media profiles you’ve viewed
+	
+
+________________
+
+
+Appendix C: Google Autocomplete term ideas
+
+
+Is climate change ...
+	Polar ice caps ...
+	Overpopulation ...
+	
+
+
+
+Elections are ...
+	Government ...
+	Democratic party is ...
+	Republican party is ...
+	
+
+
+
+Wealth is ...
+	Income distribution is ...
+	Poor people ...
+	Rich people ...
+	Welfare is ...
+	
+
+
+
+The Internet is ...
+	Privacy is ...
+	Cyber security is ...
+	
+
+
+
+Gender is ....
+	Women are ...
+	Men are ...
+	
+
+Appendix D: Sample Data Sets
+Google public data hosts large data sets for use by the general public. These datasets are not owned by Google but rather hosted on this site. Examples of available datasets include: San Francisco police reports data, USA names, and GitHub data. 
+https://cloud.google.com/bigquery/public-data/
+
+
+Open Data NYC provides lists of datasets from various New York City agencies. Open Data has a mission of engaging residents in the information that is produced and used by the  New York City government. Examples of datasets available are: Subway entrances, public pay phone locations, SAT results. 
+https://opendata.cityofnewyork.us/
+
+
+Data.gov is managed by U.S. General Services Administration. You can search for data on data.gov to find datasets linked from various government organizations. Examples of datasets on this site include: Credit card complaints, monthly house prices, health care provider data. 
+https://www.data.gov/
+
+
+NASA open data portal provides a growing catalog of NASA datasets, visualizations, models, and more. Some sample data sets include: Earth observatory images, meteorite landings, and facilities information. 
+https://data.nasa.gov/
+
+
+The World Bank is an international financial institution that provides loans to countries and governments around the world. Its goal is to reduce poverty worldwide. The datasets provided by the world bank include: Gender statistics; health nutrition and population statistics; and poverty and equity database. 
+http://databank.worldbank.org/data/home.aspx
+Appendix E: Sample Code
+* This sample pseudocode can serve as a way to introduce learners to the syntax of pseudocode. Some programming languages have very strict syntactical rules whereas pseudocode can be written in anyway since we aren’t dependant on a computer to read it. The important thing is that the plan is clear and that we understand the steps that we’d need to communicate to a computer 
+* The yellow highlighted steps are if/else statements or moments where you’d stop and make a choice 
+* The pink highlights are loops or steps where you are doing something repeatedly
+* The steps that are not highlighted can be called statements. These steps won’t change based on a condition 
+                Pseudocode for filling out a paper form
+1. Receive form from teacher
+2. Unzip backpack
+3. Pull out folder
+4. Open folder
+5. Place form within folder 
+6. While form is blank remember to fill out form
+7. If form needs parent signature  
+Ask your parent or guardian to sign 
+Else if form does not need parent signature 
+Complete form 
+1. While form is not due keep form (and forget about it) 
+2. If teacher reminds you form is due 
+Open bag, remove folder, remove form, submit to teacher
+Else if form is not due 
+Keep in bag.         
+1. Stop 
+
+
+
+
+
+
+________________
+
+
+ANNOTATED BIBLIOGRAPHY
+Ben-Ari, M. (2001). Constructivism in computer science education. Journal of Computers in Mathematics and Science Teaching, 20(1), 45-73.
+
+
+Ben-Ari defines constructivism as a cognitive theory of learning that claims that students actively construct knowledge, rather than it being passively transmitted to them by a teacher. Although there has been much work done in constructivism in the science and math fields, there has been little work on constructivism in computer science education. Moreover, according to the constructivist theory, students construct knowledge by combining the experiential world with existing cognitive structures (mental models). If we accept this idea that prior knowledge (e.g., the prior model), even in the form of misconceptions, is essential to the construction of new knowledge, then the fact that many beginning students do not have an effective mental model of the computer can be a major obstacle for teaching computer science. In other words, mental models in computer science often need to be self-constructed from the ground-up, which a more difficult process than building on pre-existing viable models. This insight can help us first introduce computer science to our learners by helping them create mental models of the content (through concept maps and diagrams, for example), so that they can then start to “fill in” the models with the knowledge that they construct during the professional development course.
+
+
+Bielefeldt, A., Paterson, K., & Swan, C. (2009, June). Measuring the impacts of project-based 
+service learning. In ASEE Annual Conference Proceedings.
+        
+        In this paper Bielefeldt and Swan review the benefits of using Project Based Service 
+Learning (PBSL) within Engineering courses. In PBSL students work on real projects 
+that benefit their communities. In contrast the Project-Based Learning in PBSL community members act as project partners. PBSL is recognized as helping students develop both technical and non-technical skills (such as teamwork, communication, and leadership). Students interest in civic engagement has been shown to increase after participating in PBSL projects. Additionally, there is an indication that service learning may help develop more diverse populations students in engineering fields. 
+
+
+While these projects are described as a means to engage a diverse group of students in engineering classes they also present challenges for assessment. Assessments suggested for these type of projects may include traditional papers or assignments, self-assessments, or peer evaluations of professional skills. Reflective essays are identified as an especially useful assessment method for students as part of the PBSL learning process. Project based service learning is described as a way to allow students to shape their own learning, contribute to their community, and develop students content knowledge.
+
+
+Boyd, d. (2014). It’s complicated: the social lives of networked teens. Princeton, NJ: Yale University Press.
+Buckingham, D. (2007). Digital media literacies: An approach to technology in education. In Beyond technology: Children's learning in the age of digital culture (pp. 143-175). Cambridge: Polity. 
+
+
+DuFour, R. (2007). Professional learning communities: A bandwagon, an idea worth considering, or our best hope for high levels of learning?. Middle School Journal, 39(1), 4-8.
+
+
+Professional learning communities are recognized in other articles reviewed as a way to connect teachers struggling with developing new pedagogical content knowledge in computing. The term professional-learning communities (PLC) has become so ubiquitous that it is in danger of losing its meaning. In defense of this framework, this article describes the critical questions professional learning communities should focus on such as, “do we make decisions by building shared knowledge regarding best practices rather than simply pooling opinions?” (DuFour, p. 160). The chapter goes on to emphasize the benefits of teachers working together in PLCs as a powerful conceptual framework. The chapter provides a valuable overview of the questions PLCs should ask, addresses critiques against this model of professional development, and restates the values of PLCs. While professional learning communities are described as taking place in physical environments this framework may have applications in digital spaces as well. 
+
+
+Giroux, H. A. (1994). Teachers, public life, and curriculum reform. Peabody Journal of Education, 69(3), 35-47. 
+
+
+Garvie, C. & Frankle, J. (2016, April 7). Facial-Recognition Software Might Have a Racial Bias 
+Problem. The Atlantic. Retrieved from 
+https://www.theatlantic.com/technology/archive/2016/04/the-underlying-bias-of-facial-recognition-systems/476991/
+
+
+Hemetsberger, A. & Reinhardt, C. (2006). Learning and knowledge-building in open-source communities: A social-experiential approach. Management Learning, 37(2), 187-214.
+
+
+Holland, D. (1998). The woman who climbed up the house. In Identity and agency in cultural worlds (pp. 3-18). Cambridge, MA: Harvard University Press.
+
+
+Throughout the first chapter of Identity and Agency in Cultural Worlds, Holland (1998) introduces the contradiction of humans being products of social discipline as well as producers of those practices. She explains the concept of identity as something that is placed in “historically contingent, socially enacted, culturally constructed” worlds (p.7), rather than as a static personal entity. The text considers two perspectives on identity when looking at a specific behavior in a specific situation: the cultural perspective claims that behavior is propelled by cultural structures and norms that are learned beforehand, while the constructivist perspective claims that it is propelled by the person’s position within the current social situation. Moreover, Holland claims that although identities are dependent upon “social support” and are “vulnerable to change” (p. 4), they mediate self-direction and behavior, and thus mediate agency.
+
+
+These sociocultural perspectives on identity and agency, as well as the relationship between the two, will be useful for our curriculum design, since one of the goals of the curriculum is to develop technological and computer agency in teachers, and thus support their identity, so that they can then model the same development for their students.
+
+
+Leu, D. J., Kinzer, C. K., Coiro, J., Castek, J., & Henry, L. A. (2013). New literacies: A dual-level theory of the changing nature of literacy, instruction, and assessment. In D. Alvermann, N. Unruh, & R B. Ruddell (Eds.), Theoretical models and processes of reading (8th ed., pp. 1150-1181). Newark, DE: International Reading Association.
+
+
+Lister, R., & Leaney, J. (2003, January). First year programming: let all the flowers bloom. In Proceedings of the fifth Australasian conference on Computing education-Volume 20 (pp. 221-230). Australian Computer Society, Inc.
+
+
+Assessment is important for determining student understanding. Researchers in this study develop a criterion-referencing grading scheme for a first-year university programming course using Bloom’s taxonomy. Through mixing strategies to test students of all levels, researchers were able to create a more inclusive grading scale that considers different performances of programming knowledge. 
+
+
+The grading scheme described in this article allows students in an introductory programming course to develop different levels of expertise. The framework developed takes into account students previous knowledge, interests, and growth over the course of the semester. By extending the levels students must reach in order to receive a passing grade, this grading scheme is able to maximize the potential of each student in a class with different skill levels. The emphasis is not simple that each student can more easily pass an introductory course but the performance assessments are different based on students skills and interests so these assessments are more meaningful to students. As differentiation was mentioned in other articles as a particularly difficult aspect of teaching computing, this article provides a useful example of differentiating student performances of understanding.
+
+
+Machanick, P. (2007). A social construction approach to computer science education. Computer Science Education, 17(1), 1-15.
+
+
+The social construction model of learning, as well as the theory of constructivism, challenges the transmission model of learning, where learners are passive recipients of knowledge: it moves the learner from a peripheral position to an active participation position. Machanick (2007) presents a framework for teaching computer science using this cognitive model. Moreover, he proposes various non-cognitive strategies that can be used in computer science curriculum, such as action learning, apprentice learning, and peer assessment, all of which “move away from the notion of accumulating knowledge in isolation” (p. 4) and towards its active application. The social construction model, constructivism, and the strategies suggested will be helpful in the design of our computer science curriculum, as we believe that the best way to learn is by being actively engaged in knowledge construction. Moreover, by modeling these practices for the teachers, they will be then be more likely to engage in the same practices in their own classrooms.
+
+
+Margolis, J., Estrella, R., & Goode, J. (2010). Stuck in the shallow end : Education, race, and computing. Cambridge, US: MIT Press. 
+        
+        “The unlikely metaphor,” as the initial chapter names it, compares the racially driven historical events in the U.S. that have shaped the lack of participation in aquatic sports by African American people, to the factors that are currently hindering diverse students from participating in computer science courses.  During the civil rights movement, overt racist beliefs and actions denied African Americans and other minorities access to swimming pools.  Current disparities in computer science education, however, are the result of less-obvious, systematic conditions which are likely tied to issues of race.  Margolis et al discuss results from a two-year study of various public high schools in California.  They found that schools that served predominantly African American and Latino/a demographics typically offered very few if any computer science courses.  Further, if those schools did have any computing classes, they were typically focused on low-level skills such as typing.  Schools visited by the researchers that served less diverse demographics did offer higher-level computing classes. Margolis et al purport that the one of the major underlying causes of this disparity was the perceived inferior capabilities of children of color to learn advanced computer science skills.  Inversely, teachers of primarily white student populations tended to have confidence in their students’ readiness to participate in advanced computer science courses.
+        
+        As part of an ethical perspective on computer science education, our curriculum aims to shed light on underlying issues that may play a role in the contexts from which teachers may work.  Awareness to such disparities are crucial to the successful and conscious implementation of computer science education because it may shine a light on some ways teachers may unknowingly contributing to similar types of situations.
+
+
+O'Neil, C. (2016). Weapons of math destruction: How big data increases inequality and 
+threatens democracy. Crown Publishing Group (NY).
+
+
+Przybylla, M. & Romeike, R. (2014). Physical computing and its scope - Towards a constructionist computer science curriculum with physical computing. Informatics in Education, 13(2), 241-254.
+
+
+Physical computing has the potential to bridge the virtual computer world with the physical, tangible world. This paper considers the topic areas in computer science where physical computing can be used, all the while maintaining a constructionist theoretical perspective. Some of these topics include algorithmic thinking, modeling, programming, feedback and control mechanisms, embedded systems, interactive systems, prototyping, and the impact of technology on human culture and society. The views taken in this paper can inform our own design of a computer science curriculum for elementary teachers. Having a connection between what seems esoteric (the “computer world”) and a haptic, tangible environment can not only help the teachers gain confidence, and thus develop their technological agencies, but can also help model activities and approaches that they can take in their classrooms to help primary students understand the computer science concepts, as well.
+
+
+Rogers, E. (2003). Chapter 7: Innovativeness and adopter categories. In Diffusion of innovations (pp. 267-299). New York:  The Free Press.
+        
+        Rogers uses historical contexts to illustrate that the adoption and diffusion of innovations (i.e. technology) tend to occur in predictable patterns.  For example he uses an anecdotal example of agricultural innovations not readily being adopted by all farmers who were aware of the innovation.  Adoption occurred in phases in which skeptics waited until it was tried and tested by “early adopting” farmers so that they would find out the results of its implementation without the need to take on any risk.  Rogers’ work is instrumental in standardizing categories for varying levels of adoption.  Prior to Rogers’ work there were no common terms for each category.  Now with these categories not only labeled, but defined, they are easier to apply to various fields.  The adopter categories, in order from least resistant to adopt innovation to most resistant are:
+
+
+* Innovators - venturesome
+* Early adopters - others typically look to early adopters for their evaluation of an innovation
+* Early Majority - adopt sooner than most, but their opinions are usually not sought after
+* Late majority - skeptical and adopt after most others
+* Laggards - traditional; suspicious 
+        
+For our purposes, empathy for these adopter categories will enable the design of the professional development sessions to take into consideration the range of comfort levels with technology and/or computer science.  We will use these categories not as labels, but to potentially gain insights to teachers’ perspectives and attitudes about the subject matter.
+
+
+Ryoo J., Goode, J. & Margolis, J. (2016). It takes a village: Supporting inquiry- and equity-oriented computer science pedagogy through a professional learning community. Computer Science Education. 
+
+
+With the recent push for more computer science education, there is a growing demand for properly trained teachers to implement new courses and programs.  With the likelihood that many computer science teachers work in isolated environments without teams of other computer science teachers within their school, Ryoo et al suggest using a professional learning community (PLC) format to offer professional development.  Within the PLCs, teachers should participate in inquiry-based learning experiences so that they can gain first-hand experience of what it feels like from the student perspective.  Additionally, Ryoo et al (2016) mention that “these PDs support teachers learning-through-doing while allowing them to bring into the experience their outside and personal knowledge, skills, and perspectives” (p. 4).  The dual focus on not only inquiry-based learning but also equity-oriented pedagogy create a practical way to address issues presented in  Stuck in the Shallow End : Education, Race, and Computing (see Computer Science Pedagogical Knowledge section).  Teachers who learned to provide inquiry and equity-oriented computer science learning experiences reported being able to “deeply engage with rigorous computer science learning” (p. 10) and that they were able to foster student agency and provide opportunities for students to take on teaching roles within the classroom.  Additionally, teachers described how they were able to use computer science to address social issues.
+
+
+This reading helped our group identify the benefits of forming PLCs.  We believe that creating such a community will help teachers establish a support group rapport which will in turn foster a safe, trusting environment where participants feel comfortable taking risks and sharing their experiences and ideas.  Additionally, the culturally relevant pedagogy described in Ryoo et al’s professional development course is a component our group aims to cultivate in our PD curriculum.  This reading serves as a major inspiration for our design.
+
+
+Scardamalia, M., & Bereiter, C. (1991). Higher levels of agency for children in knowledge 
+building: A challenge for the design of new knowledge media. The Journal of the learning sciences, 1(1), 37-68.
+        
+        The focus of this study is on developing students abilities to guide their own learning. 
+Scardamalia and Bereiter review different constructivist models of teaching. They then 
+go on to describe a learning environment called Computer Supported Intentional Learning Environments (CSILE) they have developed to provide computer support for higher level learning processes. Whereas teachers are generally understood as supporting students in reaching a zone of proximal development, computer support allows students to have increased agency over this fruitful learning space. 
+
+
+Students knowledge-construction is made public through contributing to the shared CSILE story database that begins empty but is filled with students text, image, and thinking notes. Thinking notes are plans students create for their own learning processes. These notes help make metacognitive learning visible to students. Publishing notes to the public database helps classes build knowledge collectively. Students contributions are scaffolded with sentence openers they can use to build out their comments or contributions to the database. This article provides relevant insights on how to scaffold digital learning for students.
+
+
+Semali, L. (2005). 3. Why Media Literacy Matters in American Schools. Yearbook of the National Society for the Study of Education, 104(1), 35-54.
+
+
+Sentance, S. & Csizmadia, A. (2016). Computing in the curriculum: Challenges and strategies from a teacher’s perspective. Education and Information Technologies, 22(2), 469-495.
+
+
+Computing teaching is discussed in detail in this study of UK teachers. Teacher’s perspectives on the inclusion of computing into the curriculum is described in a survey of 339 inservice teachers. The perspectives and challenges of these educators describe what strategies for teaching computing work in practice. Some of the challenges teachers identified were students lack of understanding, technical support problems, and difficulty differentiating content. Five key themes emerged from teachers descriptions of effective pedagogical strategies for teaching computing content. These themes included: unplugged activities, contextualizing tasks, collaborative learning, developing computational thinking, and scaffolding programming work. 
+* Constructivist learning activities that engage students in active learning support unplugged approaches where students embody computing concepts without computers. 
+* Computational thinking is defined as “solving problems, designing systems and understanding human behaviour, by drawing on the concepts fundamental to computer science” (Sentance et al, p. 471). 
+* Teachers found it especially helpful for their students to relate computing instruction to other curriculum subjects and students interests. 
+* Collaborative strategies teachers employed included paired-programming, teamwork, and peer mentoring. 
+* Scaffolding strategies teachers described included giving students paper code before having them work on computers, starting with a basic program that can be extended, and giving students existing programs to debug. 
+This article highlights important pedagogical strategies used by inservice computing teachers.
+
+
+U.S. Department of Education, Office of Educational Technology. (2016). #GoOpen district launch packet, Washington, D.C. Retrieved from https://tech.ed.gov/open/districts/launch/
+The U.S. Department of Education’s Office of Educational Technology has created a guide to offer an action plan for districts to adopt Open Source instructional resources - specifically digital materials such as “complete online courses, modular digital textbooks as well as more granular resources such as images, videos, and assessment items” (NETP, 2016, as cited in #GoOpen district launch packet, 2016, p. 3).  Open Source materials “allow free, unfettered access and perpetual, irrevocable ‘5R’ permissions, that is, permission from the creator to retain, reuse, revise, remix, and redistribute” (p. 3) and are offered free of charge.  The benefits of using Open Source resources include the ability for districts to reallocate funding typically used for textbooks and curricular materials, adaptability to rapidly changing educational initiatives and mandates, and the ability for access to resources from reputable institutions around the world. 
+
+
+As part of our mission to share ideas with educators and researchers interested in computer science education and professional development, we plan to submit our completed curriculum unit to an Open Source outlet in hopes of reaching educators interested in learning to implement computer science curriculum in their schools.  Additionally we will welcome others to make changes or additions to our design to tailor it to specific needs of others and/or to improve its effectiveness.
+
+
+Webb, M., Davis, N., Bell, T., Katz, Y. J., Reynolds, N., Chamber, D. P., & Syslo, M. M. (2016). Computer science in K-12 school curricula of the 21st century: Why, what and when? Education and Information Technologies, 22(2), 445-468.
+
+
+Despite the well-known need for education systems to respond to changes brought about by technological developments, the role and importance of computer science education is often misunderstood. Three rationales are proposed as arguments for inclusion of computer science in curriculum: The economic rationale cites the need to sustain a competitive edge in a technology-driven world as well as the need to have computer science-educated individuals in all industries. The social rationale alludes to the idea of having multiple and diverse producers, rather than just consumers, of technology in society. And the cultural rationale is grounded on the idea of using technology as a driver for cultural change, rather than “having change imposed by technological developments” (Webb et al., 2016, p. 446). Despite these rationales, there is disagreement on how computer science should be included in curriculum; the authors draw upon the concept of “powerful knowledge” for this purpose.
+
+
+A key point made by the authors is that early introduction of computer science is important for developing self-efficacy, since later introduction leads to limited success. Computer science in primary grades also has the potential to be more integrated among different subject areas, since in secondary grades the subjects tend to be more delineated. Moreover, on the importance of teacher professional development, the authors suggest “involving teachers in analysing new curricula [and] creating resources...while being supported to develop their own subject and pedagogical knowledge and programming skills” (Webb et al., 2016, p. 463). These arguments, and the research cited to back them, are valuable in our justification of a computer science curriculum for elementary teachers to develop their own curriculums for their classrooms.
+
+
+Wong, B. (2017). ‘I’m good, but not that good’: Digitally-skilled young people’s identity in computing. Computer Science Education.
+
+
+        Research conducted on adolescents between the ages 13-19 found that many teens have preconceived notions about the physical and social-emotional traits associated with those who are highly interested in computer science activities.  Findings showed that most students viewed those who enjoy computer science as typically “geeky,” antisocial, male white, and generally unpopular.  Additionally computer science is often viewed as “too challenging” and time consuming.  The implications of these stereotypical attitudes come in the form of reluctance to willingly participate in computer science activities or courses, and negative feelings towards peers who are labeled or identify as a “computer person.”  Such perceptions and attitudes are important for educators to be aware of because it highlights a need for an expanded view on the diverse people who are involved in the computer science industry.  Additional work to exemplify the various forms of computer science that do not necessarily involve programming (coding) would also be beneficial.
+
+
+Yadav, A., Gretter, S., Hambrusch, S., & Sands, P. (2016). Expanding computer science education in schools: understanding teacher experiences and challenges. Computer Science Education, 1-20.
+
+
+The challenges faced by in-service computer science teachers can help clarify how best to develop and induct teachers to meet efforts to expand computer science in schools. This study explores the challenges faced by classroom teachers currently engaged in delivering computer science curriculum.  The commonalities expressed by these teachers indicate a need for both additional content and pedagogical resources for computer science teachers.  Based on this data, researchers provided recommendations for developing repositories of curriculum resources for K-12 teachers. Additionally, they emphasized the value of communities of practice in order for teachers to feel less isolated when teaching this specialized subject-matter. Through understanding the challenges faced by teachers and the needs expressed to equip teachers with resources they need will help inform new professional development efforts.
+
+
+[a]Content Overview -- table/visual:
+Essential questions
+Assessment
+Key learning experiences
+Core beliefs addressed
+[b]https://www.flickr.com/photos/opensourceway/4749431843/
+[c]PRIVACY
+https://www.flickr.com/photos/opensourceway/4638981545/in/album-72157628736893483/
+[d]IDENTITY
+https://www.flickr.com/photos/opensourceway/6555466127/in/album-72157628956168333/
+[e]DATA
+https://www.flickr.com/photos/opensourceway/4749432145/in/album-72157628956168333/
+[f]SUSTAINABILITY
+https://www.flickr.com/photos/opensourceway/4426824995/in/photolist-dCjBmD-cqt5jL-7KbCQT-9r7uMS-9nHEtK-8UpWXR-8vCf4h-agxgXN-7GLMMJ
+[g]https://www.flickr.com/photos/opensourceway/5319988695/
+[h]Me.
+[i]https://www.flickr.com/photos/opensourceway/6555467573/
+[j]Visual
+[k]Explain 6 facets of understanding
+[l]Add unit lesson plans + activity plans + refer to them in the learning experiences bank.
+[m]Annotated resources
+[n]Add unit lesson plans + activity plans + refer to them in the learning experiences bank.
+[o]Annotated resources
+[p]JR come back to this
+[q]include in resources
+[r]Add unit lesson plans + activity plans + refer to them in the learning experiences bank.
+[s]Annotated resources
+[t]Add unit lesson plans + activity plans + refer to them in the learning experiences bank.
+[u]Annotated resources
+[v]https://c1.staticflickr.com/6/5211/5497134432_9c680ecc8f_b.jpg
+[w]Image to use for activity in the document.
+[x]Created a glossary for us to dump all our words here :)
